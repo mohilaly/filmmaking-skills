@@ -1,0 +1,11 @@
+{
+  "comment": "Six early-2024 report images live at /-/media/<file> instead of the usual Tickets path. build via bo_lib.img_url().",
+  "root_path_files": [
+    "weekly-update-infographic-Aug-w2.png",
+    "weekly-update-infographic-Aug-w3.png",
+    "weekly-update-infographic-Aug-w4.png",
+    "weekly-update-infographic-sept-w1.png",
+    "weekly-update-infographic-sept-w2-2.png",
+    "weekly-update-infographic-sept-w4.png"
+  ]
+}

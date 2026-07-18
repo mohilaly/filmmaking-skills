@@ -1,0 +1,27 @@
+SAUDI BOX OFFICE — WEEKLY DIGEST
+Week ending Saturday 4 Jul 2026
+
+537K tickets · 26.3M SAR · 2026 running 2.5% ahead of 2025 like-for-like.
+
+THIS WEEK
+- Tickets sold: 537K (up 14% vs last wk, down 14.3% vs last yr)
+- Revenue: 26.3M SAR (up 12.9% wk, down 15.7% yr)
+- Average ticket: 48.95 SAR (down 1% wk, down 1.6% yr)
+- Films in cinemas: 44 (down 4.3% wk, up 4.8% yr)
+
+TOP 5 FILMS (week revenue)
+1. Toy Story 5 — 8.2M (down 10.9%)
+2. Saqr We Canaria — 4.5M (up 114.3%)
+3. Minions & Monsters — 2.7M (NEW)
+4. Obsession — 2.3M (up 4.5%)
+5. 7 Dogs — 2.3M (up 0%)
+
+New this week: Minions & Monsters (USA, 2.7M), The Furious (Hong Kong, 0.4M)
+Biggest riser: A Matter Of Life Or Death, +128% week on week
+Dropped out: FIFA World Cup (2026), El Krash
+Screen share: Saudi 13% (+0.4pt) · Egyptian 24.4% (+3.1pt) · Hollywood 58.8% (-5.8pt)
+Spotlight: 7 Dogs — 42.2M SAR total, 3.77x its opening week.
+
+Full dashboard: attached — tap Saudi_Box_Office_Dashboard.html to open it (works on Mac and iPhone).
+Coverage 99 of 114 Saturdays · 291 films tracked · tickets in thousands, revenue in millions SAR.
+Sent automatically by the box office pipeline · generated 2026-07-18.

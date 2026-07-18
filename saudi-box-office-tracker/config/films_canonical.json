@@ -1,0 +1,4706 @@
+{
+  "version": 1,
+  "updated": "2026-07-11",
+  "films": {
+    "28-years-later": {
+      "title_en": "28 Years Later",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Horror/Thriller",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2025-06-21",
+      "last_week": "2025-07-12",
+      "aliases": [
+        {
+          "title_en": "28 Years Later",
+          "title_ar": ""
+        }
+      ]
+    },
+    "28-years-later-the-bone-temple": {
+      "title_en": "28 Years Later: The Bone Temple",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Horror/Thriller",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2026-01-17",
+      "last_week": "2026-01-24",
+      "aliases": [
+        {
+          "title_en": "28 Years Later: The Bone Temple",
+          "title_ar": ""
+        }
+      ]
+    },
+    "7-dogs": {
+      "title_en": "7 Dogs",
+      "title_ar": "",
+      "country": "Saudi Arabia",
+      "genre": "Action",
+      "genre_secondary": "Drama",
+      "confidence": "high",
+      "first_week": "2026-05-30",
+      "last_week": "2026-07-04",
+      "aliases": [
+        {
+          "title_en": "7 Dogs",
+          "title_ar": ""
+        },
+        {
+          "title_en": "7 Dogs",
+          "title_ar": "7 Dogs"
+        }
+      ]
+    },
+    "a-big-bold-beautiful-journey": {
+      "title_en": "A Big Bold Beautiful Journey",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Romance",
+      "genre_secondary": "Drama",
+      "confidence": "high",
+      "first_week": "2025-09-20",
+      "last_week": "2025-10-04",
+      "aliases": [
+        {
+          "title_en": "A Big Bold Beautiful Journey",
+          "title_ar": ""
+        }
+      ]
+    },
+    "a-matter-of-life-or-death": {
+      "title_en": "A Matter Of Life Or Death",
+      "title_ar": "مسألة حياة أو موت",
+      "country": "Saudi Arabia",
+      "genre": "Romance",
+      "genre_secondary": "Horror/Thriller",
+      "confidence": "low",
+      "first_week": "2026-06-27",
+      "last_week": "2026-07-04",
+      "aliases": [
+        {
+          "title_en": "A Matter Of Life Or Death",
+          "title_ar": "مسألة حياة أو موت"
+        }
+      ]
+    },
+    "a-minecraft-movie": {
+      "title_en": "A Minecraft Movie",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Animation/Family",
+      "genre_secondary": "Comedy",
+      "confidence": "high",
+      "first_week": "2025-04-05",
+      "last_week": "2025-05-17",
+      "aliases": [
+        {
+          "title_en": "A Minecraft Movie",
+          "title_ar": ""
+        }
+      ]
+    },
+    "a-quiet-place-day-one": {
+      "title_en": "A Quiet Place: Day One",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Horror/Thriller",
+      "genre_secondary": "Sci-Fi/Fantasy",
+      "confidence": "high",
+      "first_week": "2024-06-29",
+      "last_week": "2024-07-27",
+      "aliases": [
+        {
+          "title_en": "A Quiet Place: Day One",
+          "title_ar": ""
+        }
+      ]
+    },
+    "a-working-man": {
+      "title_en": "A Working Man",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Action",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2025-04-05",
+      "last_week": "2025-05-10",
+      "aliases": [
+        {
+          "title_en": "A Working Man",
+          "title_ar": ""
+        }
+      ]
+    },
+    "aadu-3": {
+      "title_en": "Aadu 3",
+      "title_ar": "",
+      "country": "India",
+      "genre": "Comedy",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2026-03-28",
+      "last_week": "2026-03-28",
+      "aliases": [
+        {
+          "title_en": "Aadu 3",
+          "title_ar": ""
+        }
+      ]
+    },
+    "aalashy": {
+      "title_en": "Aalashy (On The Go)",
+      "title_ar": "عالاشي",
+      "country": "Egypt",
+      "genre": "Comedy",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2024-05-04",
+      "last_week": "2024-05-04",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "عالاشي"
+        }
+      ]
+    },
+    "abigail": {
+      "title_en": "Abigail",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Horror/Thriller",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2024-05-18",
+      "last_week": "2024-05-25",
+      "aliases": [
+        {
+          "title_en": "Abigail",
+          "title_ar": ""
+        }
+      ]
+    },
+    "afraid": {
+      "title_en": "Afraid",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Horror/Thriller",
+      "genre_secondary": "Sci-Fi/Fantasy",
+      "confidence": "high",
+      "first_week": "2024-08-31",
+      "last_week": "2024-09-07",
+      "aliases": [
+        {
+          "title_en": "Afraid",
+          "title_ar": ""
+        }
+      ]
+    },
+    "afterburn": {
+      "title_en": "Afterburn",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Action",
+      "genre_secondary": "Sci-Fi/Fantasy",
+      "confidence": "med",
+      "first_week": "2025-08-23",
+      "last_week": "2025-08-23",
+      "aliases": [
+        {
+          "title_en": "Afterburn",
+          "title_ar": ""
+        }
+      ]
+    },
+    "ahlam-al-asr": {
+      "title_en": "Ahlam Al Asr",
+      "title_ar": "أحلام العصر",
+      "country": "Saudi Arabia",
+      "genre": "Drama",
+      "genre_secondary": "Comedy",
+      "confidence": "high",
+      "first_week": "2024-05-04",
+      "last_week": "2024-05-18",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "أحلام العصر"
+        }
+      ]
+    },
+    "ahmed-w-ahmed": {
+      "title_en": "Ahmed W Ahmed",
+      "title_ar": "أحمد وأحمد",
+      "country": "Egypt",
+      "genre": "Comedy",
+      "genre_secondary": "",
+      "confidence": "med",
+      "first_week": "2025-07-19",
+      "last_week": "2025-08-02",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "أحمد وأحمد"
+        }
+      ]
+    },
+    "akher-ragel-fel-alam": {
+      "title_en": "Akher Ragel Fel Alam",
+      "title_ar": "آخر راجل في العالم",
+      "country": "Egypt",
+      "genre": "Comedy",
+      "genre_secondary": "Sci-Fi/Fantasy",
+      "confidence": "med",
+      "first_week": "2025-09-06",
+      "last_week": "2025-09-06",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "آخر راجل في العالم"
+        }
+      ]
+    },
+    "al-lahazat-al-laziza": {
+      "title_en": "Al Lahazat Al Laziza",
+      "title_ar": "اللحظات اللذيذة",
+      "country": "Egypt",
+      "genre": "Comedy",
+      "genre_secondary": "Drama",
+      "confidence": "med",
+      "first_week": "2024-05-04",
+      "last_week": "2024-06-08",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "اللحظات اللذيذة"
+        }
+      ]
+    },
+    "al-qaid": {
+      "title_en": "Al Qaid",
+      "title_ar": "القيد",
+      "country": "Saudi Arabia",
+      "genre": "Drama",
+      "genre_secondary": "Action",
+      "confidence": "high",
+      "first_week": "2025-09-06",
+      "last_week": "2025-09-20",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "القيد"
+        }
+      ]
+    },
+    "al-safa-secondary": {
+      "title_en": "Al Safa Thanaweyat El Banat",
+      "title_ar": "الصفا ثانوية البنات",
+      "country": "Egypt",
+      "genre": "Comedy",
+      "genre_secondary": "Drama",
+      "confidence": "high",
+      "first_week": "2025-04-05",
+      "last_week": "2025-04-19",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "الصفا ثانوية البنات"
+        }
+      ]
+    },
+    "al-shanab": {
+      "title_en": "Al Shanab",
+      "title_ar": "آل شنب",
+      "country": "Egypt",
+      "genre": "Comedy",
+      "genre_secondary": "",
+      "confidence": "med",
+      "first_week": "2024-11-02",
+      "last_week": "2024-11-16",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "آل شنب"
+        }
+      ]
+    },
+    "alarum": {
+      "title_en": "Alarum",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Action",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2025-01-18",
+      "last_week": "2025-01-18",
+      "aliases": [
+        {
+          "title_en": "Alarum",
+          "title_ar": ""
+        }
+      ]
+    },
+    "alien-romulus": {
+      "title_en": "Alien: Romulus",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Horror/Thriller",
+      "genre_secondary": "Sci-Fi/Fantasy",
+      "confidence": "high",
+      "first_week": "2024-08-17",
+      "last_week": "2024-08-31",
+      "aliases": [
+        {
+          "title_en": "Alien: Romulus",
+          "title_ar": ""
+        }
+      ]
+    },
+    "alzarfa": {
+      "title_en": "Alzarfa",
+      "title_ar": "الزرفة",
+      "country": "Saudi Arabia",
+      "genre": "Comedy",
+      "genre_secondary": "Action",
+      "confidence": "high",
+      "first_week": "2025-07-05",
+      "last_week": "2025-08-23",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "الزرفة"
+        }
+      ]
+    },
+    "anaconda": {
+      "title_en": "Anaconda",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Comedy",
+      "genre_secondary": "Action",
+      "confidence": "high",
+      "first_week": "2025-12-27",
+      "last_week": "2026-01-17",
+      "aliases": [
+        {
+          "title_en": "Anaconda",
+          "title_ar": ""
+        }
+      ]
+    },
+    "arm": {
+      "title_en": "ARM",
+      "title_ar": "",
+      "country": "India",
+      "genre": "Action",
+      "genre_secondary": "Drama",
+      "confidence": "high",
+      "first_week": "2024-09-14",
+      "last_week": "2024-09-21",
+      "aliases": [
+        {
+          "title_en": "ARM",
+          "title_ar": ""
+        }
+      ]
+    },
+    "armor": {
+      "title_en": "Armor",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Action",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2024-12-07",
+      "last_week": "2024-12-14",
+      "aliases": [
+        {
+          "title_en": "Armor",
+          "title_ar": ""
+        }
+      ]
+    },
+    "asad": {
+      "title_en": "Asad",
+      "title_ar": "أسد",
+      "country": "Egypt",
+      "genre": "Action",
+      "genre_secondary": "Drama",
+      "confidence": "low",
+      "first_week": "2026-05-23",
+      "last_week": "2026-06-06",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "أسد"
+        },
+        {
+          "title_en": "Asad",
+          "title_ar": "أسد"
+        }
+      ]
+    },
+    "asheq": {
+      "title_en": "Asheq",
+      "title_ar": "عاشق",
+      "country": "Egypt",
+      "genre": "Romance",
+      "genre_secondary": "Drama",
+      "confidence": "low",
+      "first_week": "2024-09-28",
+      "last_week": "2024-10-05",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "عاشق"
+        }
+      ]
+    },
+    "avatar-fire-and-ash": {
+      "title_en": "Avatar: Fire And Ash",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Sci-Fi/Fantasy",
+      "genre_secondary": "Action",
+      "confidence": "high",
+      "first_week": "2025-12-20",
+      "last_week": "2026-01-24",
+      "aliases": [
+        {
+          "title_en": "Avatar: Fire And Ash",
+          "title_ar": ""
+        }
+      ]
+    },
+    "backrooms": {
+      "title_en": "Backrooms",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Horror/Thriller",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2026-05-30",
+      "last_week": "2026-06-20",
+      "aliases": [
+        {
+          "title_en": "Backrooms",
+          "title_ar": ""
+        },
+        {
+          "title_en": "Backrooms",
+          "title_ar": "Backrooms"
+        }
+      ]
+    },
+    "bad-boys-ride-or-die": {
+      "title_en": "Bad Boys: Ride Or Die",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Action",
+      "genre_secondary": "Comedy",
+      "confidence": "high",
+      "first_week": "2024-06-08",
+      "last_week": "2024-08-17",
+      "aliases": [
+        {
+          "title_en": "Bad Boys: Ride Or Die",
+          "title_ar": ""
+        }
+      ]
+    },
+    "bagman": {
+      "title_en": "Bagman",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Horror/Thriller",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2024-09-28",
+      "last_week": "2024-10-05",
+      "aliases": [
+        {
+          "title_en": "Bagman",
+          "title_ar": ""
+        }
+      ]
+    },
+    "ballerina": {
+      "title_en": "Ballerina",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Action",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2025-06-07",
+      "last_week": "2025-07-12",
+      "aliases": [
+        {
+          "title_en": "Ballerina",
+          "title_ar": ""
+        }
+      ]
+    },
+    "barshama": {
+      "title_en": "Barshama",
+      "title_ar": "برشامة",
+      "country": "Egypt",
+      "genre": "Comedy",
+      "genre_secondary": "",
+      "confidence": "med",
+      "first_week": "2026-04-11",
+      "last_week": "2026-05-23",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "برشامة"
+        }
+      ]
+    },
+    "bazooka": {
+      "title_en": "Bazooka",
+      "title_ar": "",
+      "country": "India",
+      "genre": "Action",
+      "genre_secondary": "Horror/Thriller",
+      "confidence": "med",
+      "first_week": "2025-04-12",
+      "last_week": "2025-04-12",
+      "aliases": [
+        {
+          "title_en": "Bazooka",
+          "title_ar": ""
+        }
+      ]
+    },
+    "beast-of-war": {
+      "title_en": "Beast Of War",
+      "title_ar": "",
+      "country": "Australia",
+      "genre": "Action",
+      "genre_secondary": "Drama",
+      "confidence": "high",
+      "first_week": "2025-09-20",
+      "last_week": "2025-09-27",
+      "aliases": [
+        {
+          "title_en": "Beast Of War",
+          "title_ar": ""
+        }
+      ]
+    },
+    "beetlejuice": {
+      "title_en": "Beetlejuice",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Comedy",
+      "genre_secondary": "Horror/Thriller",
+      "confidence": "high",
+      "first_week": "2024-09-07",
+      "last_week": "2024-09-21",
+      "aliases": [
+        {
+          "title_en": "Beetlejuice",
+          "title_ar": ""
+        }
+      ]
+    },
+    "bha-bha-ba": {
+      "title_en": "Bha Bha Ba",
+      "title_ar": "",
+      "country": "India",
+      "genre": "Comedy",
+      "genre_secondary": "",
+      "confidence": "low",
+      "first_week": "2025-12-20",
+      "last_week": "2025-12-20",
+      "aliases": [
+        {
+          "title_en": "Bha Bha Ba",
+          "title_ar": ""
+        }
+      ]
+    },
+    "billie-eilish-hit-me-hard-and-soft-the-tour": {
+      "title_en": "Billie Eilish - Hit Me Hard And Soft: The Tour",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Drama",
+      "genre_secondary": "",
+      "confidence": "low",
+      "first_week": "2026-05-16",
+      "last_week": "2026-05-16",
+      "aliases": [
+        {
+          "title_en": "Billie Eilish - Hit Me Hard And Soft: The Tour",
+          "title_ar": ""
+        }
+      ]
+    },
+    "black-cab": {
+      "title_en": "Black Cab",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Horror/Thriller",
+      "genre_secondary": "",
+      "confidence": "med",
+      "first_week": "2024-11-30",
+      "last_week": "2024-11-30",
+      "aliases": [
+        {
+          "title_en": "Black Cab",
+          "title_ar": ""
+        }
+      ]
+    },
+    "blink-twice": {
+      "title_en": "Blink Twice",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Horror/Thriller",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2024-08-24",
+      "last_week": "2024-09-14",
+      "aliases": [
+        {
+          "title_en": "Blink Twice",
+          "title_ar": ""
+        }
+      ]
+    },
+    "blue-light": {
+      "title_en": "Blue Light",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Drama",
+      "genre_secondary": "",
+      "confidence": "low",
+      "first_week": "2024-10-05",
+      "last_week": "2024-10-12",
+      "aliases": [
+        {
+          "title_en": "Blue Light",
+          "title_ar": ""
+        }
+      ]
+    },
+    "bougainvillea": {
+      "title_en": "Bougainvillea",
+      "title_ar": "",
+      "country": "India",
+      "genre": "Drama",
+      "genre_secondary": "Horror/Thriller",
+      "confidence": "med",
+      "first_week": "2024-10-19",
+      "last_week": "2024-10-19",
+      "aliases": [
+        {
+          "title_en": "Bougainvillea",
+          "title_ar": ""
+        }
+      ]
+    },
+    "bridget-jones-mad-about-the-boy": {
+      "title_en": "Bridget Jones: Mad About The Boy",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Romance",
+      "genre_secondary": "Comedy",
+      "confidence": "high",
+      "first_week": "2025-02-15",
+      "last_week": "2025-03-01",
+      "aliases": [
+        {
+          "title_en": "Bridget Jones: Mad About The Boy",
+          "title_ar": ""
+        }
+      ]
+    },
+    "canary-black": {
+      "title_en": "Canary Black",
+      "title_ar": "",
+      "country": "UK",
+      "genre": "Action",
+      "genre_secondary": "Horror/Thriller",
+      "confidence": "high",
+      "first_week": "2024-11-09",
+      "last_week": "2024-11-23",
+      "aliases": [
+        {
+          "title_en": "Canary Black",
+          "title_ar": ""
+        }
+      ]
+    },
+    "captain-america-brave-new-world": {
+      "title_en": "Captain America: Brave New World",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Action",
+      "genre_secondary": "Sci-Fi/Fantasy",
+      "confidence": "high",
+      "first_week": "2025-02-15",
+      "last_week": "2025-03-01",
+      "aliases": [
+        {
+          "title_en": "Captain America: Brave New World",
+          "title_ar": ""
+        }
+      ]
+    },
+    "cash-out": {
+      "title_en": "Cash Out",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Action",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2024-10-19",
+      "last_week": "2024-10-26",
+      "aliases": [
+        {
+          "title_en": "Cash Out",
+          "title_ar": ""
+        }
+      ]
+    },
+    "caught-stealing": {
+      "title_en": "Caught Stealing",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Drama",
+      "genre_secondary": "Action",
+      "confidence": "high",
+      "first_week": "2025-08-30",
+      "last_week": "2025-09-06",
+      "aliases": [
+        {
+          "title_en": "Caught Stealing",
+          "title_ar": ""
+        }
+      ]
+    },
+    "cellar-door": {
+      "title_en": "Cellar Door",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Horror/Thriller",
+      "genre_secondary": "",
+      "confidence": "med",
+      "first_week": "2024-11-02",
+      "last_week": "2024-11-09",
+      "aliases": [
+        {
+          "title_en": "Cellar Door",
+          "title_ar": ""
+        }
+      ]
+    },
+    "civil-war": {
+      "title_en": "Civil War",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Drama",
+      "genre_secondary": "Action",
+      "confidence": "high",
+      "first_week": "2024-05-04",
+      "last_week": "2024-05-11",
+      "aliases": [
+        {
+          "title_en": "Civil War",
+          "title_ar": ""
+        }
+      ]
+    },
+    "cleaner": {
+      "title_en": "Cleaner",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Action",
+      "genre_secondary": "Horror/Thriller",
+      "confidence": "high",
+      "first_week": "2025-02-22",
+      "last_week": "2025-03-01",
+      "aliases": [
+        {
+          "title_en": "Cleaner",
+          "title_ar": ""
+        }
+      ]
+    },
+    "coolie": {
+      "title_en": "Coolie",
+      "title_ar": "",
+      "country": "India",
+      "genre": "Action",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2025-08-16",
+      "last_week": "2025-08-16",
+      "aliases": [
+        {
+          "title_en": "Coolie",
+          "title_ar": ""
+        }
+      ]
+    },
+    "crime-101": {
+      "title_en": "Crime 101",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Drama",
+      "genre_secondary": "Action",
+      "confidence": "high",
+      "first_week": "2026-02-14",
+      "last_week": "2026-02-14",
+      "aliases": [
+        {
+          "title_en": "Crime 101",
+          "title_ar": ""
+        }
+      ]
+    },
+    "daddys-head": {
+      "title_en": "Daddy's Head",
+      "title_ar": "",
+      "country": "UK",
+      "genre": "Horror/Thriller",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2024-10-12",
+      "last_week": "2024-10-12",
+      "aliases": [
+        {
+          "title_en": "Daddy's Head",
+          "title_ar": ""
+        }
+      ]
+    },
+    "dangerous-animals": {
+      "title_en": "Dangerous Animals",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Horror/Thriller",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2025-06-14",
+      "last_week": "2025-07-26",
+      "aliases": [
+        {
+          "title_en": "Dangerous Animals",
+          "title_ar": ""
+        }
+      ]
+    },
+    "darwish": {
+      "title_en": "Darwish",
+      "title_ar": "درويش",
+      "country": "Egypt",
+      "genre": "Drama",
+      "genre_secondary": "Action",
+      "confidence": "med",
+      "first_week": "2025-08-30",
+      "last_week": "2025-09-20",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "درويش"
+        }
+      ]
+    },
+    "deadpool-wolverine": {
+      "title_en": "Deadpool & Wolverine",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Action",
+      "genre_secondary": "Comedy",
+      "confidence": "high",
+      "first_week": "2024-07-27",
+      "last_week": "2024-09-21",
+      "aliases": [
+        {
+          "title_en": "Deadpool & Wolverine",
+          "title_ar": ""
+        }
+      ]
+    },
+    "deep-water": {
+      "title_en": "Deep Water",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Horror/Thriller",
+      "genre_secondary": "",
+      "confidence": "low",
+      "first_week": "2026-05-02",
+      "last_week": "2026-06-20",
+      "aliases": [
+        {
+          "title_en": "Deep Water",
+          "title_ar": ""
+        },
+        {
+          "title_en": "Deep Water",
+          "title_ar": "Deep Water"
+        }
+      ]
+    },
+    "demon-slayer-kimetsu-no-yaiba": {
+      "title_en": "Demon Slayer: Kimetsu No Yaiba",
+      "title_ar": "",
+      "country": "Japan",
+      "genre": "Animation/Family",
+      "genre_secondary": "Action",
+      "confidence": "high",
+      "first_week": "2025-09-13",
+      "last_week": "2025-10-18",
+      "aliases": [
+        {
+          "title_en": "Demon Slayer: Kimetsu No Yaiba",
+          "title_ar": ""
+        }
+      ]
+    },
+    "den-of-thieves-2-pantera": {
+      "title_en": "Den Of Thieves 2: Pantera",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Action",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2025-01-11",
+      "last_week": "2025-02-01",
+      "aliases": [
+        {
+          "title_en": "Den Of Thieves 2: Pantera",
+          "title_ar": ""
+        }
+      ]
+    },
+    "despicable-me-4": {
+      "title_en": "Despicable Me 4",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Animation/Family",
+      "genre_secondary": "Comedy",
+      "confidence": "high",
+      "first_week": "2024-07-06",
+      "last_week": "2024-09-28",
+      "aliases": [
+        {
+          "title_en": "Despicable Me 4",
+          "title_ar": ""
+        }
+      ]
+    },
+    "detective-conan": {
+      "title_en": "Detective Conan",
+      "title_ar": "",
+      "country": "Japan",
+      "genre": "Animation/Family",
+      "genre_secondary": "Action",
+      "confidence": "high",
+      "first_week": "2024-06-01",
+      "last_week": "2024-06-15",
+      "aliases": [
+        {
+          "title_en": "Detective Conan",
+          "title_ar": ""
+        }
+      ]
+    },
+    "detective-conan-one-eyed": {
+      "title_en": "Detective Conan: One-Eyed",
+      "title_ar": "",
+      "country": "Japan",
+      "genre": "Animation/Family",
+      "genre_secondary": "Action",
+      "confidence": "high",
+      "first_week": "2025-07-12",
+      "last_week": "2025-07-12",
+      "aliases": [
+        {
+          "title_en": "Detective Conan: One-Eyed",
+          "title_ar": ""
+        }
+      ]
+    },
+    "detective-conan-one-eyed-flashback": {
+      "title_en": "Detective Conan: One-Eyed Flashback",
+      "title_ar": "",
+      "country": "Japan",
+      "genre": "Animation/Family",
+      "genre_secondary": "Action",
+      "confidence": "high",
+      "first_week": "2025-07-19",
+      "last_week": "2025-07-19",
+      "aliases": [
+        {
+          "title_en": "Detective Conan: One-Eyed Flashback",
+          "title_ar": ""
+        }
+      ]
+    },
+    "disclosure-day": {
+      "title_en": "Disclosure Day",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Drama",
+      "genre_secondary": "",
+      "confidence": "low",
+      "first_week": "2026-06-13",
+      "last_week": "2026-06-20",
+      "aliases": [
+        {
+          "title_en": "Disclosure Day",
+          "title_ar": "Disclosure Day"
+        }
+      ]
+    },
+    "disneys-snow-white": {
+      "title_en": "Disney's Snow White",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Animation/Family",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2025-04-19",
+      "last_week": "2025-04-26",
+      "aliases": [
+        {
+          "title_en": "Disney's Snow White",
+          "title_ar": ""
+        }
+      ]
+    },
+    "dog-man": {
+      "title_en": "Dog Man",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Animation/Family",
+      "genre_secondary": "Comedy",
+      "confidence": "high",
+      "first_week": "2025-02-01",
+      "last_week": "2025-02-08",
+      "aliases": [
+        {
+          "title_en": "Dog Man",
+          "title_ar": ""
+        }
+      ]
+    },
+    "dolphin-boy-2": {
+      "title_en": "Dolphin Boy 2",
+      "title_ar": "",
+      "country": "Russia",
+      "genre": "Animation/Family",
+      "genre_secondary": "",
+      "confidence": "med",
+      "first_week": "2026-01-17",
+      "last_week": "2026-01-17",
+      "aliases": [
+        {
+          "title_en": "Dolphin Boy 2",
+          "title_ar": ""
+        }
+      ]
+    },
+    "drishyam-3": {
+      "title_en": "Drishyam 3",
+      "title_ar": "",
+      "country": "India",
+      "genre": "Drama",
+      "genre_secondary": "Horror/Thriller",
+      "confidence": "med",
+      "first_week": "2026-05-23",
+      "last_week": "2026-05-30",
+      "aliases": [
+        {
+          "title_en": "Drishyam 3",
+          "title_ar": ""
+        },
+        {
+          "title_en": "Drishyam 3",
+          "title_ar": "Drishyam 3"
+        }
+      ]
+    },
+    "egybest": {
+      "title_en": "EgyBest",
+      "title_ar": "",
+      "country": "Egypt",
+      "genre": "Drama",
+      "genre_secondary": "Comedy",
+      "confidence": "low",
+      "first_week": "2026-04-18",
+      "last_week": "2026-04-25",
+      "aliases": [
+        {
+          "title_en": "EgyBest",
+          "title_ar": ""
+        }
+      ]
+    },
+    "el-dashash": {
+      "title_en": "El Dashash",
+      "title_ar": "الدشاش",
+      "country": "Egypt",
+      "genre": "Drama",
+      "genre_secondary": "Horror/Thriller",
+      "confidence": "high",
+      "first_week": "2025-01-11",
+      "last_week": "2025-03-01",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "الدشاش"
+        }
+      ]
+    },
+    "el-hana-elly-ana-feeh": {
+      "title_en": "El Hana Elly Ana Feeh",
+      "title_ar": "الهنا اللي أنا فيه",
+      "country": "Egypt",
+      "genre": "Comedy",
+      "genre_secondary": "Drama",
+      "confidence": "med",
+      "first_week": "2024-12-21",
+      "last_week": "2025-03-01",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "الهنا اللي أنا فيه"
+        }
+      ]
+    },
+    "el-harifa-2": {
+      "title_en": "El Harifa 2",
+      "title_ar": "الحريفة 2",
+      "country": "Egypt",
+      "genre": "Action",
+      "genre_secondary": "Drama",
+      "confidence": "med",
+      "first_week": "2024-12-07",
+      "last_week": "2024-12-21",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "الحريفة 2"
+        }
+      ]
+    },
+    "el-hawa-sultan": {
+      "title_en": "El Hawa Sultan",
+      "title_ar": "الهوى سلطان",
+      "country": "Egypt",
+      "genre": "Comedy",
+      "genre_secondary": "Drama",
+      "confidence": "med",
+      "first_week": "2024-11-16",
+      "last_week": "2024-12-21",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "الهوى سلطان"
+        }
+      ]
+    },
+    "el-kalam-ala-eih": {
+      "title_en": "El Kalam Ala Eih",
+      "title_ar": "الكلام على إيه",
+      "country": "Egypt",
+      "genre": "Comedy",
+      "genre_secondary": "",
+      "confidence": "med",
+      "first_week": "2026-05-16",
+      "last_week": "2026-07-04",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "الكلام على إيه"
+        },
+        {
+          "title_en": "El Kalam Ala Eih",
+          "title_ar": "الكلام على إيه"
+        }
+      ]
+    },
+    "el-khafy": {
+      "title_en": "El Khafy",
+      "title_ar": "الخفي",
+      "country": "Egypt",
+      "genre": "Horror/Thriller",
+      "genre_secondary": "",
+      "confidence": "low",
+      "first_week": "2024-10-26",
+      "last_week": "2024-11-02",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "الخفي"
+        }
+      ]
+    },
+    "el-krash": {
+      "title_en": "El Krash",
+      "title_ar": "الكراش",
+      "country": "Egypt",
+      "genre": "Comedy",
+      "genre_secondary": "",
+      "confidence": "low",
+      "first_week": "2026-06-13",
+      "last_week": "2026-06-27",
+      "aliases": [
+        {
+          "title_en": "El Krash",
+          "title_ar": "الكراش"
+        }
+      ]
+    },
+    "el-leab-maa-el-eyal": {
+      "title_en": "El Leab Maa El Eyal",
+      "title_ar": "اللعب مع العيال",
+      "country": "Egypt",
+      "genre": "Comedy",
+      "genre_secondary": "",
+      "confidence": "med",
+      "first_week": "2024-06-15",
+      "last_week": "2024-06-29",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "اللعب مع العيال"
+        }
+      ]
+    },
+    "el-sada-el-afadel": {
+      "title_en": "El Sada El Afadel",
+      "title_ar": "السادة الأفاضل",
+      "country": "Egypt",
+      "genre": "Drama",
+      "genre_secondary": "",
+      "confidence": "med",
+      "first_week": "2025-11-29",
+      "last_week": "2025-12-13",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "السادة الأفاضل"
+        }
+      ]
+    },
+    "el-selem-wel-teaban": {
+      "title_en": "El Selem Wel Teaban",
+      "title_ar": "السلم والثعبان",
+      "country": "Egypt",
+      "genre": "Romance",
+      "genre_secondary": "Drama",
+      "confidence": "high",
+      "first_week": "2025-11-29",
+      "last_week": "2026-01-10",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "السلم والثعبان"
+        }
+      ]
+    },
+    "el-serb": {
+      "title_en": "El Serb",
+      "title_ar": "السرب",
+      "country": "Egypt",
+      "genre": "Action",
+      "genre_secondary": "Drama",
+      "confidence": "high",
+      "first_week": "2024-05-11",
+      "last_week": "2024-05-18",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "السرب"
+        }
+      ]
+    },
+    "el-sett": {
+      "title_en": "El Sett",
+      "title_ar": "الست",
+      "country": "Egypt",
+      "genre": "Drama",
+      "genre_secondary": "",
+      "confidence": "med",
+      "first_week": "2025-12-13",
+      "last_week": "2026-01-10",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "الست"
+        }
+      ]
+    },
+    "el-shater": {
+      "title_en": "El Shater",
+      "title_ar": "الشاطر",
+      "country": "Egypt",
+      "genre": "Action",
+      "genre_secondary": "Drama",
+      "confidence": "med",
+      "first_week": "2025-08-02",
+      "last_week": "2025-09-13",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "الشاطر"
+        }
+      ]
+    },
+    "el-sterieha": {
+      "title_en": "El Sterieha",
+      "title_ar": "الستريحة",
+      "country": "Egypt",
+      "genre": "Comedy",
+      "genre_secondary": "",
+      "confidence": "low",
+      "first_week": "2025-01-04",
+      "last_week": "2025-01-18",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "الستريحة"
+        }
+      ]
+    },
+    "elevation": {
+      "title_en": "Elevation",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Action",
+      "genre_secondary": "Sci-Fi/Fantasy",
+      "confidence": "high",
+      "first_week": "2024-11-30",
+      "last_week": "2024-12-07",
+      "aliases": [
+        {
+          "title_en": "Elevation",
+          "title_ar": ""
+        }
+      ]
+    },
+    "elio": {
+      "title_en": "Elio",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Animation/Family",
+      "genre_secondary": "Sci-Fi/Fantasy",
+      "confidence": "high",
+      "first_week": "2025-06-21",
+      "last_week": "2025-06-28",
+      "aliases": [
+        {
+          "title_en": "Elio",
+          "title_ar": ""
+        }
+      ]
+    },
+    "en-ghab-el-ott": {
+      "title_en": "En Ghab El Ott",
+      "title_ar": "إن غاب القط",
+      "country": "Egypt",
+      "genre": "Comedy",
+      "genre_secondary": "Romance",
+      "confidence": "high",
+      "first_week": "2026-01-10",
+      "last_week": "2026-02-14",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "إن غاب القط"
+        }
+      ]
+    },
+    "esaaf": {
+      "title_en": "Esaaf",
+      "title_ar": "إسعاف",
+      "country": "Saudi Arabia",
+      "genre": "Comedy",
+      "genre_secondary": "Action",
+      "confidence": "high",
+      "first_week": "2025-04-19",
+      "last_week": "2025-06-21",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "إسعاف"
+        }
+      ]
+    },
+    "esabet-el-max": {
+      "title_en": "Esabet El Max",
+      "title_ar": "عصابة الماكس",
+      "country": "Egypt",
+      "genre": "Action",
+      "genre_secondary": "Comedy",
+      "confidence": "high",
+      "first_week": "2024-07-06",
+      "last_week": "2024-07-27",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "عصابة الماكس"
+        }
+      ]
+    },
+    "exit-protocol": {
+      "title_en": "Exit Protocol",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Action",
+      "genre_secondary": "",
+      "confidence": "low",
+      "first_week": "2025-12-20",
+      "last_week": "2025-12-20",
+      "aliases": [
+        {
+          "title_en": "Exit Protocol",
+          "title_ar": ""
+        }
+      ]
+    },
+    "f1-the-movie": {
+      "title_en": "F1 The Movie",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Drama",
+      "genre_secondary": "Action",
+      "confidence": "high",
+      "first_week": "2025-06-28",
+      "last_week": "2025-08-30",
+      "aliases": [
+        {
+          "title_en": "F1 The Movie",
+          "title_ar": ""
+        }
+      ]
+    },
+    "fakhr-alsuwaidi": {
+      "title_en": "Fakhr Al Suwaidi",
+      "title_ar": "فخر السويدي",
+      "country": "Saudi Arabia",
+      "genre": "Comedy",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2025-05-10",
+      "last_week": "2025-06-14",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "فخر السويدي"
+        }
+      ]
+    },
+    "family-business": {
+      "title_en": "Family Business",
+      "title_ar": "قاميلي بيرنس",
+      "country": "Egypt",
+      "genre": "Comedy",
+      "genre_secondary": "",
+      "confidence": "low",
+      "first_week": "2026-03-28",
+      "last_week": "2026-04-18",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "قاميلي بيرنس"
+        }
+      ]
+    },
+    "feeha-eh-yaani": {
+      "title_en": "Feeha Eh Yaani",
+      "title_ar": "فيها إيه يعني",
+      "country": "Egypt",
+      "genre": "Comedy",
+      "genre_secondary": "",
+      "confidence": "med",
+      "first_week": "2025-10-04",
+      "last_week": "2025-10-18",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "فيها إيه يعني"
+        }
+      ]
+    },
+    "fifa-world-cup-2026": {
+      "title_en": "FIFA World Cup (2026)",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Drama",
+      "genre_secondary": "",
+      "confidence": "low",
+      "first_week": "2026-06-27",
+      "last_week": "2026-06-27",
+      "aliases": [
+        {
+          "title_en": "FIFA World Cup (2026)",
+          "title_ar": "FIFA World Cup (2026)"
+        }
+      ]
+    },
+    "fight-or-flight": {
+      "title_en": "Fight Or Flight",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Action",
+      "genre_secondary": "Comedy",
+      "confidence": "high",
+      "first_week": "2025-06-28",
+      "last_week": "2025-07-05",
+      "aliases": [
+        {
+          "title_en": "Fight Or Flight",
+          "title_ar": ""
+        }
+      ]
+    },
+    "final-destination-bloodlines": {
+      "title_en": "Final Destination: Bloodlines",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Horror/Thriller",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2025-05-17",
+      "last_week": "2025-06-07",
+      "aliases": [
+        {
+          "title_en": "Final Destination: Bloodlines",
+          "title_ar": ""
+        }
+      ]
+    },
+    "five-nights-at-freddys-2": {
+      "title_en": "Five Nights At Freddy's 2",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Horror/Thriller",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2025-12-06",
+      "last_week": "2026-01-03",
+      "aliases": [
+        {
+          "title_en": "Five Nights At Freddy's 2",
+          "title_ar": ""
+        }
+      ]
+    },
+    "flight-risk": {
+      "title_en": "Flight Risk",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Action",
+      "genre_secondary": "Horror/Thriller",
+      "confidence": "high",
+      "first_week": "2025-01-25",
+      "last_week": "2025-02-15",
+      "aliases": [
+        {
+          "title_en": "Flight Risk",
+          "title_ar": ""
+        }
+      ]
+    },
+    "fly-me-to-the-moon": {
+      "title_en": "Fly Me To The Moon",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Romance",
+      "genre_secondary": "Comedy",
+      "confidence": "high",
+      "first_week": "2024-07-13",
+      "last_week": "2024-07-20",
+      "aliases": [
+        {
+          "title_en": "Fly Me To The Moon",
+          "title_ar": ""
+        }
+      ]
+    },
+    "freakier-friday": {
+      "title_en": "Freakier Friday",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Comedy",
+      "genre_secondary": "Animation/Family",
+      "confidence": "high",
+      "first_week": "2025-08-09",
+      "last_week": "2025-08-23",
+      "aliases": [
+        {
+          "title_en": "Freakier Friday",
+          "title_ar": ""
+        }
+      ]
+    },
+    "furiosa-a-mad-max-saga": {
+      "title_en": "Furiosa: A Mad Max Saga",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Action",
+      "genre_secondary": "Sci-Fi/Fantasy",
+      "confidence": "high",
+      "first_week": "2024-05-25",
+      "last_week": "2024-06-08",
+      "aliases": [
+        {
+          "title_en": "Furiosa: A Mad Max Saga",
+          "title_ar": ""
+        }
+      ]
+    },
+    "gabbys-dollhouse-the-movie": {
+      "title_en": "Gabby's Dollhouse: The Movie",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Animation/Family",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2025-09-27",
+      "last_week": "2025-09-27",
+      "aliases": [
+        {
+          "title_en": "Gabby's Dollhouse: The Movie",
+          "title_ar": ""
+        }
+      ]
+    },
+    "gawaza-toxic": {
+      "title_en": "Gawaza Toxic",
+      "title_ar": "جوازة توكسيك",
+      "country": "Egypt",
+      "genre": "Comedy",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2024-07-06",
+      "last_week": "2024-09-14",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "جوازة توكسيك"
+        }
+      ]
+    },
+    "gawaza-wala-ganaza": {
+      "title_en": "Gawaza Wala Ganaza",
+      "title_ar": "جوازة ولا جنازة",
+      "country": "Egypt",
+      "genre": "Comedy",
+      "genre_secondary": "Drama",
+      "confidence": "high",
+      "first_week": "2026-01-10",
+      "last_week": "2026-01-17",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "جوازة ولا جنازة"
+        }
+      ]
+    },
+    "ghostbusters-frozen-empire": {
+      "title_en": "Ghostbusters: Frozen Empire",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Animation/Family",
+      "genre_secondary": "Comedy",
+      "confidence": "high",
+      "first_week": "2024-05-04",
+      "last_week": "2024-05-04",
+      "aliases": [
+        {
+          "title_en": "Ghostbusters: Frozen Empire",
+          "title_ar": ""
+        }
+      ]
+    },
+    "gladiator-ii": {
+      "title_en": "Gladiator II",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Action",
+      "genre_secondary": "Drama",
+      "confidence": "high",
+      "first_week": "2024-11-16",
+      "last_week": "2024-12-28",
+      "aliases": [
+        {
+          "title_en": "Gladiator II",
+          "title_ar": ""
+        }
+      ]
+    },
+    "goat": {
+      "title_en": "Goat",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Horror/Thriller",
+      "genre_secondary": "Comedy",
+      "confidence": "low",
+      "first_week": "2026-04-25",
+      "last_week": "2026-05-02",
+      "aliases": [
+        {
+          "title_en": "Goat",
+          "title_ar": ""
+        }
+      ]
+    },
+    "godzilla-x-kong-the-new-empire": {
+      "title_en": "Godzilla x Kong: The New Empire",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Action",
+      "genre_secondary": "Sci-Fi/Fantasy",
+      "confidence": "high",
+      "first_week": "2024-05-04",
+      "last_week": "2024-05-11",
+      "aliases": [
+        {
+          "title_en": "Godzilla x Kong: The New Empire",
+          "title_ar": ""
+        }
+      ]
+    },
+    "good-bad-ugly": {
+      "title_en": "Good Bad Ugly",
+      "title_ar": "",
+      "country": "India",
+      "genre": "Action",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2025-04-12",
+      "last_week": "2025-04-12",
+      "aliases": [
+        {
+          "title_en": "Good Bad Ugly",
+          "title_ar": ""
+        }
+      ]
+    },
+    "goodfellas-1990": {
+      "title_en": "Goodfellas (1990)",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Drama",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2026-04-11",
+      "last_week": "2026-04-18",
+      "aliases": [
+        {
+          "title_en": "Goodfellas (1990)",
+          "title_ar": ""
+        }
+      ]
+    },
+    "greenland-2-migration": {
+      "title_en": "Greenland 2: Migration",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Action",
+      "genre_secondary": "Sci-Fi/Fantasy",
+      "confidence": "high",
+      "first_week": "2026-01-10",
+      "last_week": "2026-01-31",
+      "aliases": [
+        {
+          "title_en": "Greenland 2: Migration",
+          "title_ar": ""
+        }
+      ]
+    },
+    "hamnet": {
+      "title_en": "Hamnet",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Drama",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2026-01-31",
+      "last_week": "2026-02-14",
+      "aliases": [
+        {
+          "title_en": "Hamnet",
+          "title_ar": ""
+        }
+      ]
+    },
+    "hellboy-the-crooked-man": {
+      "title_en": "Hellboy: The Crooked Man",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Horror/Thriller",
+      "genre_secondary": "Action",
+      "confidence": "high",
+      "first_week": "2024-10-12",
+      "last_week": "2024-10-12",
+      "aliases": [
+        {
+          "title_en": "Hellboy: The Crooked Man",
+          "title_ar": ""
+        }
+      ]
+    },
+    "hello-love-again": {
+      "title_en": "Hello, Love, Again",
+      "title_ar": "",
+      "country": "Philippines",
+      "genre": "Romance",
+      "genre_secondary": "Drama",
+      "confidence": "high",
+      "first_week": "2024-11-23",
+      "last_week": "2024-11-30",
+      "aliases": [
+        {
+          "title_en": "Hello, Love, Again",
+          "title_ar": ""
+        }
+      ]
+    },
+    "hepta-el-monazara": {
+      "title_en": "Hepta: El Monazara El Akheera",
+      "title_ar": "هيبتا: المناظرة الأخيرة",
+      "country": "Egypt",
+      "genre": "Romance",
+      "genre_secondary": "Drama",
+      "confidence": "med",
+      "first_week": "2025-10-11",
+      "last_week": "2025-10-18",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "هيبتا: المناظرة الأخيرة"
+        }
+      ]
+    },
+    "hobal": {
+      "title_en": "Hobal",
+      "title_ar": "هوبال",
+      "country": "Saudi Arabia",
+      "genre": "Drama",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2025-01-04",
+      "last_week": "2025-03-01",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "هوبال"
+        }
+      ]
+    },
+    "hokum": {
+      "title_en": "Hokum",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Horror/Thriller",
+      "genre_secondary": "",
+      "confidence": "low",
+      "first_week": "2026-05-09",
+      "last_week": "2026-05-09",
+      "aliases": [
+        {
+          "title_en": "Hokum",
+          "title_ar": ""
+        }
+      ]
+    },
+    "hoppers": {
+      "title_en": "Hoppers",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Animation/Family",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2026-03-28",
+      "last_week": "2026-03-28",
+      "aliases": [
+        {
+          "title_en": "Hoppers",
+          "title_ar": ""
+        }
+      ]
+    },
+    "how-to-train-your-dragon": {
+      "title_en": "How To Train Your Dragon",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Animation/Family",
+      "genre_secondary": "Action",
+      "confidence": "high",
+      "first_week": "2025-06-14",
+      "last_week": "2025-07-05",
+      "aliases": [
+        {
+          "title_en": "How To Train Your Dragon",
+          "title_ar": ""
+        }
+      ]
+    },
+    "hungry": {
+      "title_en": "Hungry",
+      "title_ar": "",
+      "country": "UK",
+      "genre": "Horror/Thriller",
+      "genre_secondary": "",
+      "confidence": "med",
+      "first_week": "2026-06-27",
+      "last_week": "2026-07-04",
+      "aliases": [
+        {
+          "title_en": "Hungry",
+          "title_ar": "Hungry"
+        }
+      ]
+    },
+    "i-know-what-you-did-last-summer": {
+      "title_en": "I Know What You Did Last Summer",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Horror/Thriller",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2025-07-19",
+      "last_week": "2025-08-09",
+      "aliases": [
+        {
+          "title_en": "I Know What You Did Last Summer",
+          "title_ar": ""
+        }
+      ]
+    },
+    "if": {
+      "title_en": "IF",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Animation/Family",
+      "genre_secondary": "Comedy",
+      "confidence": "high",
+      "first_week": "2024-05-18",
+      "last_week": "2024-05-25",
+      "aliases": [
+        {
+          "title_en": "IF",
+          "title_ar": ""
+        }
+      ]
+    },
+    "il-signore": {
+      "title_en": "Il Signore",
+      "title_ar": "السنيور (عقدة المواجهة)",
+      "country": "Saudi Arabia",
+      "genre": "Comedy",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2024-08-10",
+      "last_week": "2024-08-10",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "السنيور (عقدة المواجهة)"
+        }
+      ]
+    },
+    "in-the-grey": {
+      "title_en": "In The Grey",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Action",
+      "genre_secondary": "Horror/Thriller",
+      "confidence": "high",
+      "first_week": "2026-05-16",
+      "last_week": "2026-05-30",
+      "aliases": [
+        {
+          "title_en": "In The Grey",
+          "title_ar": ""
+        },
+        {
+          "title_en": "In The Grey",
+          "title_ar": "In The Grey"
+        }
+      ]
+    },
+    "indian-2": {
+      "title_en": "Indian 2",
+      "title_ar": "",
+      "country": "India",
+      "genre": "Action",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2024-07-13",
+      "last_week": "2024-07-13",
+      "aliases": [
+        {
+          "title_en": "Indian 2",
+          "title_ar": ""
+        }
+      ]
+    },
+    "inside-out-2": {
+      "title_en": "Inside Out 2",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Animation/Family",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2024-06-15",
+      "last_week": "2024-09-28",
+      "aliases": [
+        {
+          "title_en": "Inside Out 2",
+          "title_ar": ""
+        }
+      ]
+    },
+    "into-the-deep": {
+      "title_en": "Into The Deep",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Horror/Thriller",
+      "genre_secondary": "",
+      "confidence": "med",
+      "first_week": "2025-01-25",
+      "last_week": "2025-01-25",
+      "aliases": [
+        {
+          "title_en": "Into The Deep",
+          "title_ar": ""
+        }
+      ]
+    },
+    "it-ends-with-us": {
+      "title_en": "It Ends With Us",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Romance",
+      "genre_secondary": "Drama",
+      "confidence": "high",
+      "first_week": "2024-08-10",
+      "last_week": "2024-09-21",
+      "aliases": [
+        {
+          "title_en": "It Ends With Us",
+          "title_ar": ""
+        }
+      ]
+    },
+    "joker-folie-a-deux": {
+      "title_en": "Joker: Folie A Deux",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Drama",
+      "genre_secondary": "Horror/Thriller",
+      "confidence": "high",
+      "first_week": "2024-10-05",
+      "last_week": "2024-10-26",
+      "aliases": [
+        {
+          "title_en": "Joker: Folie A Deux",
+          "title_ar": ""
+        }
+      ]
+    },
+    "jujutsu-kaisen-execution": {
+      "title_en": "Jujutsu Kaisen: Execution",
+      "title_ar": "",
+      "country": "Japan",
+      "genre": "Animation/Family",
+      "genre_secondary": "Action",
+      "confidence": "high",
+      "first_week": "2025-11-29",
+      "last_week": "2025-11-29",
+      "aliases": [
+        {
+          "title_en": "Jujutsu Kaisen: Execution",
+          "title_ar": ""
+        }
+      ]
+    },
+    "jurassic-world-rebirth": {
+      "title_en": "Jurassic World Rebirth",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Action",
+      "genre_secondary": "Sci-Fi/Fantasy",
+      "confidence": "high",
+      "first_week": "2025-07-05",
+      "last_week": "2025-07-26",
+      "aliases": [
+        {
+          "title_en": "Jurassic World Rebirth",
+          "title_ar": ""
+        }
+      ]
+    },
+    "kalamkaval": {
+      "title_en": "Kalamkaval",
+      "title_ar": "",
+      "country": "India",
+      "genre": "Drama",
+      "genre_secondary": "Horror/Thriller",
+      "confidence": "med",
+      "first_week": "2025-12-06",
+      "last_week": "2025-12-13",
+      "aliases": [
+        {
+          "title_en": "Kalamkaval",
+          "title_ar": ""
+        }
+      ]
+    },
+    "kalki-2898-ad": {
+      "title_en": "Kalki 2898 AD",
+      "title_ar": "",
+      "country": "India",
+      "genre": "Sci-Fi/Fantasy",
+      "genre_secondary": "Action",
+      "confidence": "high",
+      "first_week": "2024-06-29",
+      "last_week": "2024-07-06",
+      "aliases": [
+        {
+          "title_en": "Kalki 2898 AD",
+          "title_ar": ""
+        }
+      ]
+    },
+    "kanguva": {
+      "title_en": "Kanguva",
+      "title_ar": "",
+      "country": "India",
+      "genre": "Action",
+      "genre_secondary": "Sci-Fi/Fantasy",
+      "confidence": "high",
+      "first_week": "2024-11-16",
+      "last_week": "2024-11-16",
+      "aliases": [
+        {
+          "title_en": "Kanguva",
+          "title_ar": ""
+        }
+      ]
+    },
+    "kantara-a-legend-chapter-1": {
+      "title_en": "Kantara A Legend: Chapter 1",
+      "title_ar": "",
+      "country": "India",
+      "genre": "Action",
+      "genre_secondary": "Drama",
+      "confidence": "high",
+      "first_week": "2025-10-04",
+      "last_week": "2025-10-11",
+      "aliases": [
+        {
+          "title_en": "Kantara A Legend: Chapter 1",
+          "title_ar": ""
+        }
+      ]
+    },
+    "karate-kid-legends": {
+      "title_en": "Karate Kid: Legends",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Action",
+      "genre_secondary": "Drama",
+      "confidence": "high",
+      "first_week": "2025-05-31",
+      "last_week": "2025-06-14",
+      "aliases": [
+        {
+          "title_en": "Karate Kid: Legends",
+          "title_ar": ""
+        }
+      ]
+    },
+    "kingdom-of-the-planet-of-the-apes": {
+      "title_en": "Kingdom Of The Planet Of The Apes",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Sci-Fi/Fantasy",
+      "genre_secondary": "Action",
+      "confidence": "high",
+      "first_week": "2024-05-11",
+      "last_week": "2024-06-08",
+      "aliases": [
+        {
+          "title_en": "Kingdom Of The Planet Of The Apes",
+          "title_ar": ""
+        }
+      ]
+    },
+    "kishkindha-kaandam": {
+      "title_en": "Kishkindha Kaandam",
+      "title_ar": "",
+      "country": "India",
+      "genre": "Drama",
+      "genre_secondary": "Horror/Thriller",
+      "confidence": "high",
+      "first_week": "2024-09-21",
+      "last_week": "2024-09-21",
+      "aliases": [
+        {
+          "title_en": "Kishkindha Kaandam",
+          "title_ar": ""
+        }
+      ]
+    },
+    "kraven-the-hunter": {
+      "title_en": "Kraven The Hunter",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Action",
+      "genre_secondary": "Sci-Fi/Fantasy",
+      "confidence": "high",
+      "first_week": "2024-12-14",
+      "last_week": "2024-12-28",
+      "aliases": [
+        {
+          "title_en": "Kraven The Hunter",
+          "title_ar": ""
+        }
+      ]
+    },
+    "kung-fu-panda-4": {
+      "title_en": "Kung Fu Panda 4",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Animation/Family",
+      "genre_secondary": "Action",
+      "confidence": "high",
+      "first_week": "2024-05-04",
+      "last_week": "2024-05-04",
+      "aliases": [
+        {
+          "title_en": "Kung Fu Panda 4",
+          "title_ar": ""
+        }
+      ]
+    },
+    "l2-empuraan": {
+      "title_en": "L2: Empuraan",
+      "title_ar": "",
+      "country": "India",
+      "genre": "Action",
+      "genre_secondary": "Drama",
+      "confidence": "high",
+      "first_week": "2025-04-05",
+      "last_week": "2025-04-05",
+      "aliases": [
+        {
+          "title_en": "L2: Empuraan",
+          "title_ar": ""
+        }
+      ]
+    },
+    "land-of-bad": {
+      "title_en": "Land Of Bad",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Action",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2024-05-11",
+      "last_week": "2024-05-18",
+      "aliases": [
+        {
+          "title_en": "Land Of Bad",
+          "title_ar": ""
+        }
+      ]
+    },
+    "lee-cronins-the-mummy": {
+      "title_en": "Lee Cronin's The Mummy",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Horror/Thriller",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2026-04-18",
+      "last_week": "2026-05-09",
+      "aliases": [
+        {
+          "title_en": "Lee Cronin's The Mummy",
+          "title_ar": ""
+        }
+      ]
+    },
+    "leil-nahar": {
+      "title_en": "Leil Nahar",
+      "title_ar": "ليل نهار",
+      "country": "Saudi Arabia",
+      "genre": "Comedy",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2024-12-14",
+      "last_week": "2025-01-11",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "ليل نهار"
+        }
+      ]
+    },
+    "lilo-stitch": {
+      "title_en": "Lilo & Stitch",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Animation/Family",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2025-05-24",
+      "last_week": "2025-07-19",
+      "aliases": [
+        {
+          "title_en": "Lilo & Stitch",
+          "title_ar": ""
+        }
+      ]
+    },
+    "locked": {
+      "title_en": "Locked",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Horror/Thriller",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2025-04-05",
+      "last_week": "2025-04-05",
+      "aliases": [
+        {
+          "title_en": "Locked",
+          "title_ar": ""
+        }
+      ]
+    },
+    "lokah-chapter-one-chandra": {
+      "title_en": "Lokah Chapter One: Chandra",
+      "title_ar": "",
+      "country": "India",
+      "genre": "Action",
+      "genre_secondary": "Sci-Fi/Fantasy",
+      "confidence": "high",
+      "first_week": "2025-08-30",
+      "last_week": "2025-09-13",
+      "aliases": [
+        {
+          "title_en": "Lokah Chapter One: Chandra",
+          "title_ar": ""
+        }
+      ]
+    },
+    "longlegs": {
+      "title_en": "Longlegs",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Horror/Thriller",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2024-07-20",
+      "last_week": "2024-08-03",
+      "aliases": [
+        {
+          "title_en": "Longlegs",
+          "title_ar": ""
+        }
+      ]
+    },
+    "love-hurts": {
+      "title_en": "Love Hurts",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Action",
+      "genre_secondary": "Comedy",
+      "confidence": "high",
+      "first_week": "2025-02-08",
+      "last_week": "2025-02-15",
+      "aliases": [
+        {
+          "title_en": "Love Hurts",
+          "title_ar": ""
+        }
+      ]
+    },
+    "lucky-baskhar": {
+      "title_en": "Lucky Baskhar",
+      "title_ar": "",
+      "country": "India",
+      "genre": "Drama",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2024-11-02",
+      "last_week": "2024-11-09",
+      "aliases": [
+        {
+          "title_en": "Lucky Baskhar",
+          "title_ar": ""
+        }
+      ]
+    },
+    "mama-w-baba": {
+      "title_en": "Mama W Baba",
+      "title_ar": "ماما وبابا",
+      "country": "Egypt",
+      "genre": "Comedy",
+      "genre_secondary": "Drama",
+      "confidence": "med",
+      "first_week": "2025-09-13",
+      "last_week": "2025-10-18",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "ماما وبابا"
+        }
+      ]
+    },
+    "maraty-x": {
+      "title_en": "Maraty X",
+      "title_ar": "X مراتي",
+      "country": "Egypt",
+      "genre": "Comedy",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2024-08-03",
+      "last_week": "2024-10-26",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "X مراتي"
+        }
+      ]
+    },
+    "marco": {
+      "title_en": "Marco",
+      "title_ar": "",
+      "country": "India",
+      "genre": "Action",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2024-12-21",
+      "last_week": "2024-12-28",
+      "aliases": [
+        {
+          "title_en": "Marco",
+          "title_ar": ""
+        }
+      ]
+    },
+    "marty-supreme": {
+      "title_en": "Marty Supreme",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Drama",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2026-03-28",
+      "last_week": "2026-03-28",
+      "aliases": [
+        {
+          "title_en": "Marty Supreme",
+          "title_ar": ""
+        }
+      ]
+    },
+    "maruko-promise": {
+      "title_en": "Chibi Maruko-chan: Promise of Friends",
+      "title_ar": "ماروكو الصغيرة: وعد الأصدقاء",
+      "country": "Japan",
+      "genre": "Animation/Family",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2025-10-18",
+      "last_week": "2025-10-18",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "ماروكو الصغيرة: وعد الأصدقاء"
+        }
+      ]
+    },
+    "masters-of-the-universe": {
+      "title_en": "Masters Of The Universe",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Action",
+      "genre_secondary": "Sci-Fi/Fantasy",
+      "confidence": "high",
+      "first_week": "2026-06-06",
+      "last_week": "2026-06-13",
+      "aliases": [
+        {
+          "title_en": "Masters Of The Universe",
+          "title_ar": ""
+        },
+        {
+          "title_en": "Masters Of The Universe",
+          "title_ar": "Masters Of The Universe"
+        }
+      ]
+    },
+    "materialists": {
+      "title_en": "Materialists",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Romance",
+      "genre_secondary": "Drama",
+      "confidence": "high",
+      "first_week": "2025-08-16",
+      "last_week": "2025-08-30",
+      "aliases": [
+        {
+          "title_en": "Materialists",
+          "title_ar": ""
+        }
+      ]
+    },
+    "mercy": {
+      "title_en": "Mercy",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Sci-Fi/Fantasy",
+      "genre_secondary": "Horror/Thriller",
+      "confidence": "med",
+      "first_week": "2026-01-24",
+      "last_week": "2026-01-31",
+      "aliases": [
+        {
+          "title_en": "Mercy",
+          "title_ar": ""
+        }
+      ]
+    },
+    "michael": {
+      "title_en": "Michael",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Drama",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2026-04-25",
+      "last_week": "2026-06-20",
+      "aliases": [
+        {
+          "title_en": "Michael",
+          "title_ar": ""
+        },
+        {
+          "title_en": "Michael",
+          "title_ar": "Michael"
+        }
+      ]
+    },
+    "mickey-17": {
+      "title_en": "Mickey 17",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Sci-Fi/Fantasy",
+      "genre_secondary": "Drama",
+      "confidence": "high",
+      "first_week": "2025-04-12",
+      "last_week": "2025-04-12",
+      "aliases": [
+        {
+          "title_en": "Mickey 17",
+          "title_ar": ""
+        }
+      ]
+    },
+    "minions-monsters": {
+      "title_en": "Minions & Monsters",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Animation/Family",
+      "genre_secondary": "Comedy",
+      "confidence": "high",
+      "first_week": "2026-07-04",
+      "last_week": "2026-07-04",
+      "aliases": [
+        {
+          "title_en": "Minions & Monsters",
+          "title_ar": "Minions & Monsters"
+        }
+      ]
+    },
+    "mission-impossible-the-final-reckoning": {
+      "title_en": "Mission: Impossible - The Final Reckoning",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Action",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2025-05-24",
+      "last_week": "2025-06-21",
+      "aliases": [
+        {
+          "title_en": "Mission: Impossible - The Final Reckoning",
+          "title_ar": ""
+        }
+      ]
+    },
+    "moana-2": {
+      "title_en": "Moana 2",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Animation/Family",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2024-11-30",
+      "last_week": "2025-01-11",
+      "aliases": [
+        {
+          "title_en": "Moana 2",
+          "title_ar": ""
+        }
+      ]
+    },
+    "moharibat-al-sahra": {
+      "title_en": "Moharibat Al Sahra",
+      "title_ar": "محاربة الصحراء",
+      "country": "Saudi Arabia",
+      "genre": "Drama",
+      "genre_secondary": "Action",
+      "confidence": "low",
+      "first_week": "2026-04-25",
+      "last_week": "2026-04-25",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "محاربة الصحراء"
+        }
+      ]
+    },
+    "mortal-kombat-ii": {
+      "title_en": "Mortal Kombat II",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Action",
+      "genre_secondary": "Sci-Fi/Fantasy",
+      "confidence": "high",
+      "first_week": "2026-05-09",
+      "last_week": "2026-05-16",
+      "aliases": [
+        {
+          "title_en": "Mortal Kombat II",
+          "title_ar": ""
+        }
+      ]
+    },
+    "mr-9-do-or-die": {
+      "title_en": "MR-9: Do Or Die",
+      "title_ar": "",
+      "country": "Bangladesh",
+      "genre": "Action",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2024-10-05",
+      "last_week": "2024-10-05",
+      "aliases": [
+        {
+          "title_en": "MR-9: Do Or Die",
+          "title_ar": ""
+        }
+      ]
+    },
+    "mufasa-the-lion-king": {
+      "title_en": "Mufasa: The Lion King",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Animation/Family",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2024-12-21",
+      "last_week": "2025-03-01",
+      "aliases": [
+        {
+          "title_en": "Mufasa: The Lion King",
+          "title_ar": ""
+        }
+      ]
+    },
+    "negoom-el-sahel": {
+      "title_en": "Negoom El Sahel",
+      "title_ar": "نجوم الساحل",
+      "country": "Egypt",
+      "genre": "Comedy",
+      "genre_secondary": "",
+      "confidence": "low",
+      "first_week": "2025-04-12",
+      "last_week": "2025-04-19",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "نجوم الساحل"
+        }
+      ]
+    },
+    "never-let-go": {
+      "title_en": "Never Let Go",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Horror/Thriller",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2024-09-28",
+      "last_week": "2024-10-12",
+      "aliases": [
+        {
+          "title_en": "Never Let Go",
+          "title_ar": ""
+        }
+      ]
+    },
+    "nobody-2": {
+      "title_en": "Nobody 2",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Action",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2025-08-16",
+      "last_week": "2025-09-13",
+      "aliases": [
+        {
+          "title_en": "Nobody 2",
+          "title_ar": ""
+        }
+      ]
+    },
+    "norah": {
+      "title_en": "Norah",
+      "title_ar": "نورة",
+      "country": "Saudi Arabia",
+      "genre": "Drama",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2024-06-22",
+      "last_week": "2024-07-06",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "نورة"
+        }
+      ]
+    },
+    "nosferatu": {
+      "title_en": "Nosferatu",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Horror/Thriller",
+      "genre_secondary": "Drama",
+      "confidence": "high",
+      "first_week": "2025-01-04",
+      "last_week": "2025-01-11",
+      "aliases": [
+        {
+          "title_en": "Nosferatu",
+          "title_ar": ""
+        }
+      ]
+    },
+    "novocaine": {
+      "title_en": "Novocaine",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Action",
+      "genre_secondary": "Comedy",
+      "confidence": "high",
+      "first_week": "2025-04-05",
+      "last_week": "2025-04-12",
+      "aliases": [
+        {
+          "title_en": "Novocaine",
+          "title_ar": ""
+        }
+      ]
+    },
+    "now-you-see-me-now-you-dont": {
+      "title_en": "Now You See Me: Now You Don't",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Action",
+      "genre_secondary": "Comedy",
+      "confidence": "high",
+      "first_week": "2025-11-29",
+      "last_week": "2025-12-27",
+      "aliases": [
+        {
+          "title_en": "Now You See Me: Now You Don't",
+          "title_ar": ""
+        }
+      ]
+    },
+    "nuremberg": {
+      "title_en": "Nuremberg",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Drama",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2026-01-03",
+      "last_week": "2026-01-03",
+      "aliases": [
+        {
+          "title_en": "Nuremberg",
+          "title_ar": ""
+        }
+      ]
+    },
+    "obsession": {
+      "title_en": "Obsession",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Horror/Thriller",
+      "genre_secondary": "Romance",
+      "confidence": "med",
+      "first_week": "2026-05-23",
+      "last_week": "2026-07-04",
+      "aliases": [
+        {
+          "title_en": "Obsession",
+          "title_ar": ""
+        },
+        {
+          "title_en": "Obsession",
+          "title_ar": "Obsession"
+        }
+      ]
+    },
+    "officer-on-duty": {
+      "title_en": "Officer On Duty",
+      "title_ar": "",
+      "country": "India",
+      "genre": "Action",
+      "genre_secondary": "Drama",
+      "confidence": "high",
+      "first_week": "2025-02-22",
+      "last_week": "2025-03-01",
+      "aliases": [
+        {
+          "title_en": "Officer On Duty",
+          "title_ar": ""
+        }
+      ]
+    },
+    "one-battle-after-another": {
+      "title_en": "One Battle After Another",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Drama",
+      "genre_secondary": "Action",
+      "confidence": "high",
+      "first_week": "2025-09-27",
+      "last_week": "2025-10-18",
+      "aliases": [
+        {
+          "title_en": "One Battle After Another",
+          "title_ar": ""
+        }
+      ]
+    },
+    "panda-plan": {
+      "title_en": "Panda Plan",
+      "title_ar": "",
+      "country": "China",
+      "genre": "Action",
+      "genre_secondary": "Comedy",
+      "confidence": "high",
+      "first_week": "2024-11-02",
+      "last_week": "2024-11-09",
+      "aliases": [
+        {
+          "title_en": "Panda Plan",
+          "title_ar": ""
+        }
+      ]
+    },
+    "pani": {
+      "title_en": "Pani",
+      "title_ar": "",
+      "country": "India",
+      "genre": "Action",
+      "genre_secondary": "Drama",
+      "confidence": "med",
+      "first_week": "2024-10-26",
+      "last_week": "2024-11-02",
+      "aliases": [
+        {
+          "title_en": "Pani",
+          "title_ar": ""
+        }
+      ]
+    },
+    "patriot": {
+      "title_en": "Patriot",
+      "title_ar": "",
+      "country": "India",
+      "genre": "Action",
+      "genre_secondary": "",
+      "confidence": "med",
+      "first_week": "2026-05-02",
+      "last_week": "2026-05-02",
+      "aliases": [
+        {
+          "title_en": "Patriot",
+          "title_ar": ""
+        }
+      ]
+    },
+    "pension-dalal": {
+      "title_en": "Pension Dalal",
+      "title_ar": "بنسيون دلال",
+      "country": "Egypt",
+      "genre": "Comedy",
+      "genre_secondary": "Drama",
+      "confidence": "med",
+      "first_week": "2024-10-12",
+      "last_week": "2024-11-02",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "بنسيون دلال"
+        }
+      ]
+    },
+    "primate": {
+      "title_en": "Primate",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Horror/Thriller",
+      "genre_secondary": "Sci-Fi/Fantasy",
+      "confidence": "med",
+      "first_week": "2026-01-24",
+      "last_week": "2026-01-31",
+      "aliases": [
+        {
+          "title_en": "Primate",
+          "title_ar": ""
+        }
+      ]
+    },
+    "project-hail-mary": {
+      "title_en": "Project Hail Mary",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Sci-Fi/Fantasy",
+      "genre_secondary": "Drama",
+      "confidence": "high",
+      "first_week": "2026-03-28",
+      "last_week": "2026-04-25",
+      "aliases": [
+        {
+          "title_en": "Project Hail Mary",
+          "title_ar": ""
+        }
+      ]
+    },
+    "project-x": {
+      "title_en": "Project X",
+      "title_ar": "المشروع X",
+      "country": "Egypt",
+      "genre": "Action",
+      "genre_secondary": "Sci-Fi/Fantasy",
+      "confidence": "high",
+      "first_week": "2025-06-07",
+      "last_week": "2025-06-28",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "المشروع X"
+        }
+      ]
+    },
+    "protector": {
+      "title_en": "Protector",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Action",
+      "genre_secondary": "",
+      "confidence": "low",
+      "first_week": "2026-03-28",
+      "last_week": "2026-03-28",
+      "aliases": [
+        {
+          "title_en": "Protector",
+          "title_ar": ""
+        }
+      ]
+    },
+    "pushpa-2-the-rule": {
+      "title_en": "Pushpa 2: The Rule",
+      "title_ar": "",
+      "country": "India",
+      "genre": "Action",
+      "genre_secondary": "Drama",
+      "confidence": "high",
+      "first_week": "2024-12-07",
+      "last_week": "2024-12-14",
+      "aliases": [
+        {
+          "title_en": "Pushpa 2: The Rule",
+          "title_ar": ""
+        }
+      ]
+    },
+    "qareb-7-nozoh": {
+      "title_en": "Qareb 7 Nozoh",
+      "title_ar": "قارب 7 نزوح",
+      "country": "Egypt",
+      "genre": "Drama",
+      "genre_secondary": "",
+      "confidence": "low",
+      "first_week": "2025-04-05",
+      "last_week": "2025-04-05",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "قارب 7 نزوح"
+        }
+      ]
+    },
+    "qasr-el-basha": {
+      "title_en": "Qasr El Basha",
+      "title_ar": "قصر الباشا",
+      "country": "Egypt",
+      "genre": "Drama",
+      "genre_secondary": "",
+      "confidence": "low",
+      "first_week": "2025-11-29",
+      "last_week": "2025-12-06",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "قصر الباشا"
+        }
+      ]
+    },
+    "ready-or-not-2-here-i-come": {
+      "title_en": "Ready Or Not 2: Here I Come",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Horror/Thriller",
+      "genre_secondary": "Comedy",
+      "confidence": "high",
+      "first_week": "2026-04-11",
+      "last_week": "2026-04-11",
+      "aliases": [
+        {
+          "title_en": "Ready Or Not 2: Here I Come",
+          "title_ar": ""
+        }
+      ]
+    },
+    "red-one": {
+      "title_en": "Red One",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Action",
+      "genre_secondary": "Comedy",
+      "confidence": "high",
+      "first_week": "2024-11-09",
+      "last_week": "2024-12-07",
+      "aliases": [
+        {
+          "title_en": "Red One",
+          "title_ar": ""
+        }
+      ]
+    },
+    "rekhachitram": {
+      "title_en": "Rekhachitram",
+      "title_ar": "",
+      "country": "India",
+      "genre": "Drama",
+      "genre_secondary": "Horror/Thriller",
+      "confidence": "med",
+      "first_week": "2025-01-18",
+      "last_week": "2025-01-18",
+      "aliases": [
+        {
+          "title_en": "Rekhachitram",
+          "title_ar": ""
+        }
+      ]
+    },
+    "reminders-of-him": {
+      "title_en": "Reminders Of Him",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Romance",
+      "genre_secondary": "Drama",
+      "confidence": "med",
+      "first_week": "2026-03-28",
+      "last_week": "2026-03-28",
+      "aliases": [
+        {
+          "title_en": "Reminders Of Him",
+          "title_ar": ""
+        }
+      ]
+    },
+    "restart": {
+      "title_en": "Restart",
+      "title_ar": "ريستارت",
+      "country": "Egypt",
+      "genre": "Drama",
+      "genre_secondary": "Action",
+      "confidence": "med",
+      "first_week": "2025-05-31",
+      "last_week": "2025-07-12",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "ريستارت"
+        }
+      ]
+    },
+    "return-to-silent-hill": {
+      "title_en": "Return To Silent Hill",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Horror/Thriller",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2026-01-24",
+      "last_week": "2026-02-07",
+      "aliases": [
+        {
+          "title_en": "Return To Silent Hill",
+          "title_ar": ""
+        }
+      ]
+    },
+    "rocky-el-ghalaba": {
+      "title_en": "Rocky El Ghalaba",
+      "title_ar": "روكي الغلابة",
+      "country": "Egypt",
+      "genre": "Action",
+      "genre_secondary": "Comedy",
+      "confidence": "med",
+      "first_week": "2025-08-16",
+      "last_week": "2025-09-13",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "روكي الغلابة"
+        }
+      ]
+    },
+    "roofman": {
+      "title_en": "Roofman",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Drama",
+      "genre_secondary": "Comedy",
+      "confidence": "high",
+      "first_week": "2025-10-18",
+      "last_week": "2025-10-18",
+      "aliases": [
+        {
+          "title_en": "Roofman",
+          "title_ar": ""
+        }
+      ]
+    },
+    "saffah-el-tagamoa": {
+      "title_en": "Saffah El Tagamoa",
+      "title_ar": "سفاح التجمع",
+      "country": "Egypt",
+      "genre": "Horror/Thriller",
+      "genre_secondary": "Drama",
+      "confidence": "med",
+      "first_week": "2026-04-25",
+      "last_week": "2026-05-02",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "سفاح التجمع"
+        }
+      ]
+    },
+    "saiyaara": {
+      "title_en": "Saiyaara",
+      "title_ar": "",
+      "country": "India",
+      "genre": "Romance",
+      "genre_secondary": "Drama",
+      "confidence": "med",
+      "first_week": "2025-07-26",
+      "last_week": "2025-07-26",
+      "aliases": [
+        {
+          "title_en": "Saiyaara",
+          "title_ar": ""
+        }
+      ]
+    },
+    "saqr-we-canaria": {
+      "title_en": "Saqr We Canaria",
+      "title_ar": "صقر وكناريا",
+      "country": "Egypt",
+      "genre": "Comedy",
+      "genre_secondary": "",
+      "confidence": "med",
+      "first_week": "2026-06-27",
+      "last_week": "2026-07-04",
+      "aliases": [
+        {
+          "title_en": "Saqr We Canaria",
+          "title_ar": "صقر وكناريا"
+        }
+      ]
+    },
+    "sarvam-maya": {
+      "title_en": "Sarvam Maya",
+      "title_ar": "",
+      "country": "India",
+      "genre": "Drama",
+      "genre_secondary": "Horror/Thriller",
+      "confidence": "low",
+      "first_week": "2025-12-27",
+      "last_week": "2026-01-03",
+      "aliases": [
+        {
+          "title_en": "Sarvam Maya",
+          "title_ar": ""
+        }
+      ]
+    },
+    "scream-7": {
+      "title_en": "Scream 7",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Horror/Thriller",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2026-03-28",
+      "last_week": "2026-04-18",
+      "aliases": [
+        {
+          "title_en": "Scream 7",
+          "title_ar": ""
+        }
+      ]
+    },
+    "se7en-re-release": {
+      "title_en": "Se7en (Re-Release)",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Horror/Thriller",
+      "genre_secondary": "Drama",
+      "confidence": "high",
+      "first_week": "2025-02-01",
+      "last_week": "2025-03-01",
+      "aliases": [
+        {
+          "title_en": "Se7en (Re-Release)",
+          "title_ar": ""
+        }
+      ]
+    },
+    "seko-seko": {
+      "title_en": "Seko Seko",
+      "title_ar": "سيكو سيكو",
+      "country": "Egypt",
+      "genre": "Comedy",
+      "genre_secondary": "",
+      "confidence": "med",
+      "first_week": "2025-04-26",
+      "last_week": "2025-06-07",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "سيكو سيكو"
+        }
+      ]
+    },
+    "send-help": {
+      "title_en": "Send Help",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Horror/Thriller",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2026-01-31",
+      "last_week": "2026-02-14",
+      "aliases": [
+        {
+          "title_en": "Send Help",
+          "title_ar": ""
+        }
+      ]
+    },
+    "shabab-albomb": {
+      "title_en": "Shabab Al Bomb",
+      "title_ar": "شباب البومب",
+      "country": "Saudi Arabia",
+      "genre": "Comedy",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2024-05-04",
+      "last_week": "2024-07-06",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "شباب البومب"
+        }
+      ]
+    },
+    "shabab-albomb-2": {
+      "title_en": "Shabab Al Bomb 2",
+      "title_ar": "شباب البومب 2",
+      "country": "Saudi Arabia",
+      "genre": "Comedy",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2025-04-05",
+      "last_week": "2025-05-17",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "شباب البومب 2"
+        }
+      ]
+    },
+    "shabab-albomb-3": {
+      "title_en": "Shabab Al Bomb 3",
+      "title_ar": "شباب البومب 3",
+      "country": "Saudi Arabia",
+      "genre": "Comedy",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2026-03-28",
+      "last_week": "2026-05-09",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "شباب البومب 3"
+        }
+      ]
+    },
+    "shaqo": {
+      "title_en": "Shaqo",
+      "title_ar": "شقو",
+      "country": "Egypt",
+      "genre": "Action",
+      "genre_secondary": "Drama",
+      "confidence": "high",
+      "first_week": "2024-05-04",
+      "last_week": "2024-05-25",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "شقو"
+        }
+      ]
+    },
+    "shelter": {
+      "title_en": "Shelter",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Action",
+      "genre_secondary": "Horror/Thriller",
+      "confidence": "high",
+      "first_week": "2026-01-31",
+      "last_week": "2026-02-14",
+      "aliases": [
+        {
+          "title_en": "Shelter",
+          "title_ar": ""
+        }
+      ]
+    },
+    "sikandar": {
+      "title_en": "Sikandar",
+      "title_ar": "",
+      "country": "India",
+      "genre": "Action",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2025-04-05",
+      "last_week": "2025-04-05",
+      "aliases": [
+        {
+          "title_en": "Sikandar",
+          "title_ar": ""
+        }
+      ]
+    },
+    "sinners": {
+      "title_en": "Sinners",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Horror/Thriller",
+      "genre_secondary": "Drama",
+      "confidence": "high",
+      "first_week": "2025-04-19",
+      "last_week": "2025-05-24",
+      "aliases": [
+        {
+          "title_en": "Sinners",
+          "title_ar": ""
+        }
+      ]
+    },
+    "sisu-road-to-revenge": {
+      "title_en": "Sisu: Road To Revenge",
+      "title_ar": "",
+      "country": "Finland",
+      "genre": "Action",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2025-11-29",
+      "last_week": "2025-11-29",
+      "aliases": [
+        {
+          "title_en": "Sisu: Road To Revenge",
+          "title_ar": ""
+        }
+      ]
+    },
+    "siwar": {
+      "title_en": "Siwar",
+      "title_ar": "سوار",
+      "country": "Saudi Arabia",
+      "genre": "Drama",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2025-08-09",
+      "last_week": "2025-09-06",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "سوار"
+        }
+      ]
+    },
+    "smile-2": {
+      "title_en": "Smile 2",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Horror/Thriller",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2024-10-19",
+      "last_week": "2024-11-23",
+      "aliases": [
+        {
+          "title_en": "Smile 2",
+          "title_ar": ""
+        }
+      ]
+    },
+    "smurfs": {
+      "title_en": "Smurfs",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Animation/Family",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2025-07-19",
+      "last_week": "2025-08-02",
+      "aliases": [
+        {
+          "title_en": "Smurfs",
+          "title_ar": ""
+        }
+      ]
+    },
+    "sokkar-semsemeya": {
+      "title_en": "Sokkar Semsemeya",
+      "title_ar": "سكر سمسمية وحبوب الحرزير",
+      "country": "Egypt",
+      "genre": "Comedy",
+      "genre_secondary": "",
+      "confidence": "low",
+      "first_week": "2025-01-25",
+      "last_week": "2025-02-01",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "سكر سمسمية وحبوب الحرزير"
+        }
+      ]
+    },
+    "sonic-the-hedgehog-3": {
+      "title_en": "Sonic The Hedgehog 3",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Animation/Family",
+      "genre_secondary": "Action",
+      "confidence": "high",
+      "first_week": "2024-12-28",
+      "last_week": "2025-03-01",
+      "aliases": [
+        {
+          "title_en": "Sonic The Hedgehog 3",
+          "title_ar": ""
+        }
+      ]
+    },
+    "sound-of-hope": {
+      "title_en": "Sound Of Hope",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Drama",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2024-08-24",
+      "last_week": "2024-08-24",
+      "aliases": [
+        {
+          "title_en": "Sound Of Hope",
+          "title_ar": ""
+        }
+      ]
+    },
+    "speak-no-evil": {
+      "title_en": "Speak No Evil",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Horror/Thriller",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2024-09-14",
+      "last_week": "2024-10-19",
+      "aliases": [
+        {
+          "title_en": "Speak No Evil",
+          "title_ar": ""
+        }
+      ]
+    },
+    "star-wars-the-mandalorian-and-grogu": {
+      "title_en": "Star Wars: The Mandalorian And Grogu",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Sci-Fi/Fantasy",
+      "genre_secondary": "Action",
+      "confidence": "high",
+      "first_week": "2026-05-23",
+      "last_week": "2026-05-23",
+      "aliases": [
+        {
+          "title_en": "Star Wars: The Mandalorian And Grogu",
+          "title_ar": ""
+        }
+      ]
+    },
+    "supergirl": {
+      "title_en": "Supergirl",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Action",
+      "genre_secondary": "Sci-Fi/Fantasy",
+      "confidence": "high",
+      "first_week": "2026-06-27",
+      "last_week": "2026-07-04",
+      "aliases": [
+        {
+          "title_en": "Supergirl",
+          "title_ar": "Supergirl"
+        }
+      ]
+    },
+    "superman": {
+      "title_en": "Superman",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Action",
+      "genre_secondary": "Sci-Fi/Fantasy",
+      "confidence": "high",
+      "first_week": "2025-07-12",
+      "last_week": "2025-08-02",
+      "aliases": [
+        {
+          "title_en": "Superman",
+          "title_ar": ""
+        }
+      ]
+    },
+    "talqi": {
+      "title_en": "Talqi",
+      "title_ar": "طلقي",
+      "country": "Egypt",
+      "genre": "Comedy",
+      "genre_secondary": "Drama",
+      "confidence": "low",
+      "first_week": "2025-12-27",
+      "last_week": "2026-02-14",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "طلقي"
+        }
+      ]
+    },
+    "tani-tani": {
+      "title_en": "Tani Tani",
+      "title_ar": "تاني تاني",
+      "country": "Egypt",
+      "genre": "Comedy",
+      "genre_secondary": "Drama",
+      "confidence": "high",
+      "first_week": "2024-06-01",
+      "last_week": "2024-06-15",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "تاني تاني"
+        }
+      ]
+    },
+    "tarot-the-death-card": {
+      "title_en": "Tarot: The Death Card",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Horror/Thriller",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2024-06-01",
+      "last_week": "2024-06-22",
+      "aliases": [
+        {
+          "title_en": "Tarot: The Death Card",
+          "title_ar": ""
+        }
+      ]
+    },
+    "the-accountant-2": {
+      "title_en": "The Accountant 2",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Action",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2025-04-26",
+      "last_week": "2025-05-24",
+      "aliases": [
+        {
+          "title_en": "The Accountant 2",
+          "title_ar": ""
+        }
+      ]
+    },
+    "the-amateur": {
+      "title_en": "The Amateur",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Action",
+      "genre_secondary": "Horror/Thriller",
+      "confidence": "high",
+      "first_week": "2025-04-12",
+      "last_week": "2025-04-26",
+      "aliases": [
+        {
+          "title_en": "The Amateur",
+          "title_ar": ""
+        }
+      ]
+    },
+    "the-apprentice-the-trump-story": {
+      "title_en": "The Apprentice: The Trump Story",
+      "title_ar": "",
+      "country": "Canada",
+      "genre": "Drama",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2024-10-19",
+      "last_week": "2024-10-26",
+      "aliases": [
+        {
+          "title_en": "The Apprentice: The Trump Story",
+          "title_ar": ""
+        }
+      ]
+    },
+    "the-bad-guys-2": {
+      "title_en": "The Bad Guys 2",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Animation/Family",
+      "genre_secondary": "Comedy",
+      "confidence": "high",
+      "first_week": "2025-08-02",
+      "last_week": "2025-08-09",
+      "aliases": [
+        {
+          "title_en": "The Bad Guys 2",
+          "title_ar": ""
+        }
+      ]
+    },
+    "the-bayou": {
+      "title_en": "The Bayou",
+      "title_ar": "",
+      "country": "UK",
+      "genre": "Horror/Thriller",
+      "genre_secondary": "",
+      "confidence": "med",
+      "first_week": "2025-02-08",
+      "last_week": "2025-02-15",
+      "aliases": [
+        {
+          "title_en": "The Bayou",
+          "title_ar": ""
+        }
+      ]
+    },
+    "the-bikeriders": {
+      "title_en": "The Bikeriders",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Drama",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2024-06-22",
+      "last_week": "2024-06-29",
+      "aliases": [
+        {
+          "title_en": "The Bikeriders",
+          "title_ar": ""
+        }
+      ]
+    },
+    "the-black-phone-2": {
+      "title_en": "The Black Phone 2",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Horror/Thriller",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2025-10-18",
+      "last_week": "2025-10-18",
+      "aliases": [
+        {
+          "title_en": "The Black Phone 2",
+          "title_ar": ""
+        }
+      ]
+    },
+    "the-bride": {
+      "title_en": "The Bride",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Drama",
+      "genre_secondary": "Horror/Thriller",
+      "confidence": "high",
+      "first_week": "2026-03-28",
+      "last_week": "2026-03-28",
+      "aliases": [
+        {
+          "title_en": "The Bride",
+          "title_ar": ""
+        }
+      ]
+    },
+    "the-clean-up-crew": {
+      "title_en": "The Clean Up Crew",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Action",
+      "genre_secondary": "Comedy",
+      "confidence": "high",
+      "first_week": "2024-09-14",
+      "last_week": "2024-09-14",
+      "aliases": [
+        {
+          "title_en": "The Clean Up Crew",
+          "title_ar": ""
+        }
+      ]
+    },
+    "the-conjuring-last-rites": {
+      "title_en": "The Conjuring: Last Rites",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Horror/Thriller",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2025-09-13",
+      "last_week": "2025-10-18",
+      "aliases": [
+        {
+          "title_en": "The Conjuring: Last Rites",
+          "title_ar": ""
+        }
+      ]
+    },
+    "the-crow": {
+      "title_en": "The Crow",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Action",
+      "genre_secondary": "Drama",
+      "confidence": "high",
+      "first_week": "2024-08-24",
+      "last_week": "2024-08-24",
+      "aliases": [
+        {
+          "title_en": "The Crow",
+          "title_ar": ""
+        }
+      ]
+    },
+    "the-day-the-earth-blew-up-a-looney-tunes-movie": {
+      "title_en": "The Day The Earth Blew Up: A Looney Tunes Movie",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Animation/Family",
+      "genre_secondary": "Comedy",
+      "confidence": "high",
+      "first_week": "2025-04-05",
+      "last_week": "2025-04-05",
+      "aliases": [
+        {
+          "title_en": "The Day The Earth Blew Up: A Looney Tunes Movie",
+          "title_ar": ""
+        }
+      ]
+    },
+    "the-death-of-robin-hood": {
+      "title_en": "The Death Of Robin Hood",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Drama",
+      "genre_secondary": "Action",
+      "confidence": "med",
+      "first_week": "2026-06-20",
+      "last_week": "2026-06-20",
+      "aliases": [
+        {
+          "title_en": "The Death Of Robin Hood",
+          "title_ar": "The Death Of Robin Hood"
+        }
+      ]
+    },
+    "the-devil-wears-prada-2": {
+      "title_en": "The Devil Wears Prada 2",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Comedy",
+      "genre_secondary": "Drama",
+      "confidence": "high",
+      "first_week": "2026-05-02",
+      "last_week": "2026-05-23",
+      "aliases": [
+        {
+          "title_en": "The Devil Wears Prada 2",
+          "title_ar": ""
+        }
+      ]
+    },
+    "the-fall-guy": {
+      "title_en": "The Fall Guy",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Action",
+      "genre_secondary": "Comedy",
+      "confidence": "high",
+      "first_week": "2024-05-04",
+      "last_week": "2024-06-01",
+      "aliases": [
+        {
+          "title_en": "The Fall Guy",
+          "title_ar": ""
+        }
+      ]
+    },
+    "the-fantastic-four-first-steps": {
+      "title_en": "The Fantastic Four: First Steps",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Action",
+      "genre_secondary": "Sci-Fi/Fantasy",
+      "confidence": "high",
+      "first_week": "2025-07-26",
+      "last_week": "2025-08-09",
+      "aliases": [
+        {
+          "title_en": "The Fantastic Four: First Steps",
+          "title_ar": ""
+        }
+      ]
+    },
+    "the-furious": {
+      "title_en": "The Furious",
+      "title_ar": "",
+      "country": "Hong Kong",
+      "genre": "Action",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2026-07-04",
+      "last_week": "2026-07-04",
+      "aliases": [
+        {
+          "title_en": "The Furious",
+          "title_ar": "The Furious"
+        }
+      ]
+    },
+    "the-garfield-movie": {
+      "title_en": "The Garfield Movie",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Animation/Family",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2024-05-25",
+      "last_week": "2024-06-22",
+      "aliases": [
+        {
+          "title_en": "The Garfield Movie",
+          "title_ar": ""
+        }
+      ]
+    },
+    "the-greatest-of-all-time-g-o-a-t": {
+      "title_en": "The Greatest Of All Time (G.O.A.T)",
+      "title_ar": "",
+      "country": "India",
+      "genre": "Action",
+      "genre_secondary": "Sci-Fi/Fantasy",
+      "confidence": "high",
+      "first_week": "2024-09-07",
+      "last_week": "2024-09-07",
+      "aliases": [
+        {
+          "title_en": "The Greatest Of All Time (G.O.A.T)",
+          "title_ar": ""
+        }
+      ]
+    },
+    "the-housemaid": {
+      "title_en": "The Housemaid",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Horror/Thriller",
+      "genre_secondary": "Drama",
+      "confidence": "high",
+      "first_week": "2026-02-07",
+      "last_week": "2026-02-14",
+      "aliases": [
+        {
+          "title_en": "The Housemaid",
+          "title_ar": ""
+        }
+      ]
+    },
+    "the-last-breath": {
+      "title_en": "The Last Breath",
+      "title_ar": "",
+      "country": "Belgium",
+      "genre": "Horror/Thriller",
+      "genre_secondary": "",
+      "confidence": "med",
+      "first_week": "2024-07-13",
+      "last_week": "2024-07-13",
+      "aliases": [
+        {
+          "title_en": "The Last Breath",
+          "title_ar": ""
+        }
+      ]
+    },
+    "the-long-walk": {
+      "title_en": "The Long Walk",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Horror/Thriller",
+      "genre_secondary": "Sci-Fi/Fantasy",
+      "confidence": "high",
+      "first_week": "2025-09-20",
+      "last_week": "2025-09-27",
+      "aliases": [
+        {
+          "title_en": "The Long Walk",
+          "title_ar": ""
+        }
+      ]
+    },
+    "the-monkey": {
+      "title_en": "The Monkey",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Horror/Thriller",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2025-04-19",
+      "last_week": "2025-04-19",
+      "aliases": [
+        {
+          "title_en": "The Monkey",
+          "title_ar": ""
+        }
+      ]
+    },
+    "the-naked-gun": {
+      "title_en": "The Naked Gun",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Comedy",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2025-08-02",
+      "last_week": "2025-08-09",
+      "aliases": [
+        {
+          "title_en": "The Naked Gun",
+          "title_ar": ""
+        }
+      ]
+    },
+    "the-running-man": {
+      "title_en": "The Running Man",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Action",
+      "genre_secondary": "Sci-Fi/Fantasy",
+      "confidence": "high",
+      "first_week": "2025-11-29",
+      "last_week": "2025-11-29",
+      "aliases": [
+        {
+          "title_en": "The Running Man",
+          "title_ar": ""
+        }
+      ]
+    },
+    "the-shadows-edge": {
+      "title_en": "The Shadow's Edge",
+      "title_ar": "",
+      "country": "China",
+      "genre": "Action",
+      "genre_secondary": "Drama",
+      "confidence": "high",
+      "first_week": "2025-09-20",
+      "last_week": "2025-10-04",
+      "aliases": [
+        {
+          "title_en": "The Shadow's Edge",
+          "title_ar": ""
+        }
+      ]
+    },
+    "the-sheep-detectives": {
+      "title_en": "The Sheep Detectives",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Animation/Family",
+      "genre_secondary": "Comedy",
+      "confidence": "med",
+      "first_week": "2026-05-09",
+      "last_week": "2026-06-13",
+      "aliases": [
+        {
+          "title_en": "The Sheep Detectives",
+          "title_ar": ""
+        },
+        {
+          "title_en": "The Sheep Detectives",
+          "title_ar": "The Sheep Detectives"
+        }
+      ]
+    },
+    "the-shining": {
+      "title_en": "The Shining",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Horror/Thriller",
+      "genre_secondary": "Drama",
+      "confidence": "high",
+      "first_week": "2026-02-07",
+      "last_week": "2026-02-14",
+      "aliases": [
+        {
+          "title_en": "The Shining",
+          "title_ar": ""
+        }
+      ]
+    },
+    "the-smashing-machine": {
+      "title_en": "The Smashing Machine",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Drama",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2025-10-04",
+      "last_week": "2025-10-11",
+      "aliases": [
+        {
+          "title_en": "The Smashing Machine",
+          "title_ar": ""
+        }
+      ]
+    },
+    "the-spongebob-movie-search-for-squarepants": {
+      "title_en": "The Spongebob Movie: Search For Squarepants",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Animation/Family",
+      "genre_secondary": "Comedy",
+      "confidence": "high",
+      "first_week": "2025-12-27",
+      "last_week": "2026-02-14",
+      "aliases": [
+        {
+          "title_en": "The Spongebob Movie: Search For Squarepants",
+          "title_ar": ""
+        }
+      ]
+    },
+    "the-strangers-chapter-1": {
+      "title_en": "The Strangers: Chapter 1",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Horror/Thriller",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2024-06-22",
+      "last_week": "2024-06-29",
+      "aliases": [
+        {
+          "title_en": "The Strangers: Chapter 1",
+          "title_ar": ""
+        }
+      ]
+    },
+    "the-strangers-chapter-2": {
+      "title_en": "The Strangers: Chapter 2",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Horror/Thriller",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2025-09-27",
+      "last_week": "2025-10-04",
+      "aliases": [
+        {
+          "title_en": "The Strangers: Chapter 2",
+          "title_ar": ""
+        }
+      ]
+    },
+    "the-super-mario-galaxy-movie": {
+      "title_en": "The Super Mario Galaxy Movie",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Animation/Family",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2026-04-11",
+      "last_week": "2026-06-06",
+      "aliases": [
+        {
+          "title_en": "The Super Mario Galaxy Movie",
+          "title_ar": ""
+        }
+      ]
+    },
+    "the-watchers": {
+      "title_en": "The Watchers",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Horror/Thriller",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2024-06-08",
+      "last_week": "2024-06-15",
+      "aliases": [
+        {
+          "title_en": "The Watchers",
+          "title_ar": ""
+        }
+      ]
+    },
+    "the-wild-robot": {
+      "title_en": "The Wild Robot",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Animation/Family",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2024-09-28",
+      "last_week": "2024-11-30",
+      "aliases": [
+        {
+          "title_en": "The Wild Robot",
+          "title_ar": ""
+        }
+      ]
+    },
+    "they-will-kill-you": {
+      "title_en": "They Will Kill You",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Horror/Thriller",
+      "genre_secondary": "",
+      "confidence": "low",
+      "first_week": "2026-04-11",
+      "last_week": "2026-04-11",
+      "aliases": [
+        {
+          "title_en": "They Will Kill You",
+          "title_ar": ""
+        }
+      ]
+    },
+    "thudarum": {
+      "title_en": "Thudarum",
+      "title_ar": "",
+      "country": "India",
+      "genre": "Drama",
+      "genre_secondary": "Horror/Thriller",
+      "confidence": "med",
+      "first_week": "2025-05-03",
+      "last_week": "2025-05-03",
+      "aliases": [
+        {
+          "title_en": "Thudarum",
+          "title_ar": ""
+        }
+      ]
+    },
+    "thunderbolts": {
+      "title_en": "Thunderbolts*",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Action",
+      "genre_secondary": "Sci-Fi/Fantasy",
+      "confidence": "high",
+      "first_week": "2025-05-03",
+      "last_week": "2025-05-31",
+      "aliases": [
+        {
+          "title_en": "Thunderbolts*",
+          "title_ar": ""
+        }
+      ]
+    },
+    "toy-story-5": {
+      "title_en": "Toy Story 5",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Animation/Family",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2026-06-20",
+      "last_week": "2026-07-04",
+      "aliases": [
+        {
+          "title_en": "Toy Story 5",
+          "title_ar": "Toy Story 5"
+        }
+      ]
+    },
+    "transformers-one": {
+      "title_en": "Transformers One",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Animation/Family",
+      "genre_secondary": "Action",
+      "confidence": "high",
+      "first_week": "2024-09-21",
+      "last_week": "2024-09-28",
+      "aliases": [
+        {
+          "title_en": "Transformers One",
+          "title_ar": ""
+        }
+      ]
+    },
+    "trap": {
+      "title_en": "Trap",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Horror/Thriller",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2024-08-03",
+      "last_week": "2024-08-31",
+      "aliases": [
+        {
+          "title_en": "Trap",
+          "title_ar": ""
+        }
+      ]
+    },
+    "trap-house": {
+      "title_en": "Trap House",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Horror/Thriller",
+      "genre_secondary": "Comedy",
+      "confidence": "med",
+      "first_week": "2025-11-29",
+      "last_week": "2025-12-06",
+      "aliases": [
+        {
+          "title_en": "Trap House",
+          "title_ar": ""
+        }
+      ]
+    },
+    "tron-ares": {
+      "title_en": "Tron: Ares",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Sci-Fi/Fantasy",
+      "genre_secondary": "Action",
+      "confidence": "high",
+      "first_week": "2025-10-11",
+      "last_week": "2025-10-18",
+      "aliases": [
+        {
+          "title_en": "Tron: Ares",
+          "title_ar": ""
+        }
+      ]
+    },
+    "turbo": {
+      "title_en": "Turbo",
+      "title_ar": "",
+      "country": "India",
+      "genre": "Action",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2024-05-25",
+      "last_week": "2024-06-01",
+      "aliases": [
+        {
+          "title_en": "Turbo",
+          "title_ar": ""
+        }
+      ]
+    },
+    "twisters": {
+      "title_en": "Twisters",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Action",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2024-07-20",
+      "last_week": "2024-08-17",
+      "aliases": [
+        {
+          "title_en": "Twisters",
+          "title_ar": ""
+        }
+      ]
+    },
+    "until-dawn": {
+      "title_en": "Until Dawn",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Horror/Thriller",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2025-04-26",
+      "last_week": "2025-05-31",
+      "aliases": [
+        {
+          "title_en": "Until Dawn",
+          "title_ar": ""
+        }
+      ]
+    },
+    "vaazha-ii-biopic-of-a-billion-bros": {
+      "title_en": "Vaazha II: Biopic Of A Billion Bros",
+      "title_ar": "",
+      "country": "India",
+      "genre": "Comedy",
+      "genre_secondary": "Drama",
+      "confidence": "high",
+      "first_week": "2026-04-11",
+      "last_week": "2026-04-18",
+      "aliases": [
+        {
+          "title_en": "Vaazha II: Biopic Of A Billion Bros",
+          "title_ar": ""
+        }
+      ]
+    },
+    "venom-the-last-dance": {
+      "title_en": "Venom: The Last Dance",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Action",
+      "genre_secondary": "Sci-Fi/Fantasy",
+      "confidence": "high",
+      "first_week": "2024-10-26",
+      "last_week": "2024-12-14",
+      "aliases": [
+        {
+          "title_en": "Venom: The Last Dance",
+          "title_ar": ""
+        }
+      ]
+    },
+    "vettaiyan": {
+      "title_en": "Vettaiyan",
+      "title_ar": "",
+      "country": "India",
+      "genre": "Action",
+      "genre_secondary": "Drama",
+      "confidence": "high",
+      "first_week": "2024-10-12",
+      "last_week": "2024-10-19",
+      "aliases": [
+        {
+          "title_en": "Vettaiyan",
+          "title_ar": ""
+        }
+      ]
+    },
+    "vidaamuyarchi": {
+      "title_en": "Vidaamuyarchi",
+      "title_ar": "",
+      "country": "India",
+      "genre": "Action",
+      "genre_secondary": "Horror/Thriller",
+      "confidence": "high",
+      "first_week": "2025-02-08",
+      "last_week": "2025-02-08",
+      "aliases": [
+        {
+          "title_en": "Vidaamuyarchi",
+          "title_ar": ""
+        }
+      ]
+    },
+    "w-lana-fel-khayal-hob": {
+      "title_en": "W Lana Fel Khayal... Hob?",
+      "title_ar": "ولنا في الخيال... حب؟",
+      "country": "Egypt",
+      "genre": "Romance",
+      "genre_secondary": "Drama",
+      "confidence": "med",
+      "first_week": "2025-12-06",
+      "last_week": "2025-12-20",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "ولنا في الخيال... حب؟"
+        }
+      ]
+    },
+    "wadaan-hamdi": {
+      "title_en": "Wadaa'an Hamdi",
+      "title_ar": "وداعا حمدي",
+      "country": "Egypt",
+      "genre": "Comedy",
+      "genre_secondary": "Drama",
+      "confidence": "high",
+      "first_week": "2024-11-09",
+      "last_week": "2024-11-23",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "وداعا حمدي"
+        }
+      ]
+    },
+    "wake-up": {
+      "title_en": "Wake Up",
+      "title_ar": "",
+      "country": "Canada",
+      "genre": "Horror/Thriller",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2024-09-07",
+      "last_week": "2024-09-07",
+      "aliases": [
+        {
+          "title_en": "Wake Up",
+          "title_ar": ""
+        }
+      ]
+    },
+    "we-live-in-time": {
+      "title_en": "We Live In Time",
+      "title_ar": "",
+      "country": "UK",
+      "genre": "Romance",
+      "genre_secondary": "Drama",
+      "confidence": "high",
+      "first_week": "2024-12-28",
+      "last_week": "2025-01-04",
+      "aliases": [
+        {
+          "title_en": "We Live In Time",
+          "title_ar": ""
+        }
+      ]
+    },
+    "weapons": {
+      "title_en": "Weapons",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Horror/Thriller",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2025-08-09",
+      "last_week": "2025-09-20",
+      "aliases": [
+        {
+          "title_en": "Weapons",
+          "title_ar": ""
+        }
+      ]
+    },
+    "weekend-in-taipei": {
+      "title_en": "Weekend In Taipei",
+      "title_ar": "",
+      "country": "France",
+      "genre": "Action",
+      "genre_secondary": "Horror/Thriller",
+      "confidence": "high",
+      "first_week": "2024-09-21",
+      "last_week": "2024-10-05",
+      "aliases": [
+        {
+          "title_en": "Weekend In Taipei",
+          "title_ar": ""
+        }
+      ]
+    },
+    "welad-rizk-3": {
+      "title_en": "Welad Rizk 3",
+      "title_ar": "ولد رزق 3",
+      "country": "Egypt",
+      "genre": "Action",
+      "genre_secondary": "Drama",
+      "confidence": "high",
+      "first_week": "2024-06-15",
+      "last_week": "2025-01-04",
+      "aliases": [
+        {
+          "title_en": "",
+          "title_ar": "ولد رزق 3"
+        }
+      ]
+    },
+    "wicked": {
+      "title_en": "Wicked",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Drama",
+      "genre_secondary": "Romance",
+      "confidence": "high",
+      "first_week": "2024-11-23",
+      "last_week": "2024-12-28",
+      "aliases": [
+        {
+          "title_en": "Wicked",
+          "title_ar": ""
+        }
+      ]
+    },
+    "wicked-for-good": {
+      "title_en": "Wicked: For Good",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Drama",
+      "genre_secondary": "Romance",
+      "confidence": "high",
+      "first_week": "2025-11-29",
+      "last_week": "2025-12-13",
+      "aliases": [
+        {
+          "title_en": "Wicked: For Good",
+          "title_ar": ""
+        }
+      ]
+    },
+    "wildcat": {
+      "title_en": "Wildcat",
+      "title_ar": "",
+      "country": "UK",
+      "genre": "Drama",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2025-12-13",
+      "last_week": "2025-12-20",
+      "aliases": [
+        {
+          "title_en": "Wildcat",
+          "title_ar": ""
+        }
+      ]
+    },
+    "wolf-man": {
+      "title_en": "Wolf Man",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Horror/Thriller",
+      "genre_secondary": "",
+      "confidence": "high",
+      "first_week": "2025-01-18",
+      "last_week": "2025-01-25",
+      "aliases": [
+        {
+          "title_en": "Wolf Man",
+          "title_ar": ""
+        }
+      ]
+    },
+    "wrong-place": {
+      "title_en": "Wrong Place",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Action",
+      "genre_secondary": "Horror/Thriller",
+      "confidence": "high",
+      "first_week": "2024-08-31",
+      "last_week": "2024-09-07",
+      "aliases": [
+        {
+          "title_en": "Wrong Place",
+          "title_ar": ""
+        }
+      ]
+    },
+    "your-host": {
+      "title_en": "Your Host",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Horror/Thriller",
+      "genre_secondary": "",
+      "confidence": "low",
+      "first_week": "2025-10-11",
+      "last_week": "2025-10-11",
+      "aliases": [
+        {
+          "title_en": "Your Host",
+          "title_ar": ""
+        }
+      ]
+    },
+    "zootropolis-2": {
+      "title_en": "Zootropolis 2",
+      "title_ar": "",
+      "country": "USA",
+      "genre": "Animation/Family",
+      "genre_secondary": "Comedy",
+      "confidence": "high",
+      "first_week": "2025-11-29",
+      "last_week": "2026-02-14",
+      "aliases": [
+        {
+          "title_en": "Zootropolis 2",
+          "title_ar": ""
+        }
+      ]
+    }
+  }
+}

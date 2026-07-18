@@ -1,0 +1,114 @@
+{
+  "generated": "2026-07-18",
+  "summary": {
+    "total_checks": 9,
+    "total_passed": 8,
+    "total_with_issues": 1,
+    "total_issues": 2,
+    "n_weeks": 99,
+    "n_film_rows": 990,
+    "n_gaps": 15
+  },
+  "checks": [
+    {
+      "id": "A",
+      "name": "Each week has exactly 10 films",
+      "expected": "n_films == 10 for every week",
+      "n_checked": 99,
+      "n_failed": 0,
+      "issues": []
+    },
+    {
+      "id": "B",
+      "name": "date_end is a Saturday",
+      "expected": "every date_end falls on a Saturday",
+      "n_checked": 99,
+      "n_failed": 0,
+      "issues": []
+    },
+    {
+      "id": "C",
+      "name": "Year/month match the date_end's majority-of-days month",
+      "expected": "stored (year, month) equals the labeled month for that week",
+      "n_checked": 99,
+      "n_failed": 0,
+      "issues": []
+    },
+    {
+      "id": "D",
+      "name": "Avg ticket price (revenue ÷ tickets) in 30–100 SAR",
+      "expected": "30 ≤ avg ≤ 100",
+      "n_checked": 99,
+      "n_failed": 2,
+      "issues": [
+        {
+          "filename": "005_Weekly-Box-Office-Report-Design-2026---Sun_-Feb-8th---Feb-W1-EXT.png",
+          "date_end": "2026-02-07",
+          "avg_SAR": 29.59
+        },
+        {
+          "filename": "068_weekly-update-infographic-sept-w3.png",
+          "date_end": "2024-09-21",
+          "avg_SAR": 27.55
+        }
+      ]
+    },
+    {
+      "id": "E",
+      "name": "Cumulative totals non-decreasing per film (canonical identity)",
+      "expected": "total_revenue_M and total_tickets_K do not drop week-over-week for the same film",
+      "n_checked": 1398,
+      "n_failed": 0,
+      "issues": []
+    },
+    {
+      "id": "F",
+      "name": "Sum of top-10 weekly tickets ≤ weekly total tickets",
+      "expected": "top-10 total tickets should not exceed the week total",
+      "n_checked": 99,
+      "n_failed": 0,
+      "issues": []
+    },
+    {
+      "id": "G",
+      "name": "No zero/negative or absurd revenue (>100M)",
+      "expected": "0 < revenue_M ≤ 100",
+      "n_checked": 1980,
+      "n_failed": 0,
+      "issues": []
+    },
+    {
+      "id": "H",
+      "name": "Every film row resolves to a canonical film ID",
+      "expected": "config/films_canonical.json covers all observed title variants",
+      "n_checked": 990,
+      "n_failed": 0,
+      "issues": []
+    },
+    {
+      "id": "I",
+      "name": "Coverage gap map (missing Saturdays, informational)",
+      "expected": "gaps are known and tracked, not silent",
+      "n_checked": 1,
+      "n_failed": 0,
+      "issues": [],
+      "gaps": [
+        "2025-03-08",
+        "2025-03-15",
+        "2025-03-22",
+        "2025-03-29",
+        "2025-10-25",
+        "2025-11-01",
+        "2025-11-08",
+        "2025-11-15",
+        "2025-11-22",
+        "2026-02-21",
+        "2026-02-28",
+        "2026-03-07",
+        "2026-03-14",
+        "2026-03-21",
+        "2026-04-04"
+      ]
+    }
+  ]
+}
